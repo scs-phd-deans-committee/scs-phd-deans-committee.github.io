@@ -18,3 +18,5 @@ Reach us at phd-advisory-committee@cs.cmu.edu
 [March 25](https://docs.google.com/document/d/10_843JagT8VaUyXFXp4RKVQry1_kd7Joki-vwhc75WY/edit?usp=sharing)
 
 [Match 30](https://docs.google.com/document/d/1CekkX1WcmHNAl5fFIIRcUURsbXZUGhDauc6ZTFX8_Ew/edit?usp=sharing)
+
+[Old, general minutes](https://docs.google.com/document/d/1xRH22CeUy_1k9F0Y-rxLb0yUbbYN2O-r9xiaI87AUsU/edit)
