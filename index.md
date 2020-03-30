@@ -1,4 +1,6 @@
-# SCS PhD Dean's Advisory Committee
+---
+title: SCS PhD Dean's Advisory Committee
+---
 
 Reach us at phd-advisory-committee@cs.cmu.edu
 
