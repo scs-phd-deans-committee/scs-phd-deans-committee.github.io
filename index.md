@@ -13,5 +13,8 @@ Reach us at phd-advisory-committee@cs.cmu.edu
 
 [March 6, 2020: Meeting with Martial Herbert](https://docs.google.com/document/d/1juPCMiZg1hSDviHHYYPVg2fJ9--N6qY-Ii0uup6KwxM/edit?usp=sharing)
 
-# Meeting minutes
+# Committee meeting minutes
 
+[March 25](https://docs.google.com/document/d/10_843JagT8VaUyXFXp4RKVQry1_kd7Joki-vwhc75WY/edit?usp=sharing)
+
+[Match 30](https://docs.google.com/document/d/1CekkX1WcmHNAl5fFIIRcUURsbXZUGhDauc6ZTFX8_Ew/edit?usp=sharing)
