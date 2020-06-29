@@ -4,8 +4,6 @@ title: SCS PhD Dean's Advisory Committee
 
 Reach us at phd-advisory-committee@cs.cmu.edu
 
-We are looking to add a member from the Computational Biology Department to our committee! If you are interested, fill out this survey [here](https://forms.gle/wnVY1BqxaYiPxfD17)
-
 # Documents for the SCS PhD community
 [Mission statement](https://docs.google.com/document/d/1Qj4Qlu79TpUtTImYFufYOPegloKJJsaPOEMbzo4NkmA/edit?usp=sharing)
 
