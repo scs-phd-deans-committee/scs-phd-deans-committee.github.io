@@ -5,18 +5,25 @@ title: SCS PhD Dean's Advisory Committee
 Reach us at phd-advisory-committee@cs.cmu.edu
 
 # Documents for the SCS PhD community
+
 [Mission statement](https://docs.google.com/document/d/1Qj4Qlu79TpUtTImYFufYOPegloKJJsaPOEMbzo4NkmA/edit?usp=sharing)
 
 [March 27, 2020: Recommendation to the Dean's office on S2020 student evaluations](https://docs.google.com/document/d/1CfT4g4fvFHR1Uh7WdZ97Yxi84kq0UGNvi-1FX0HtCKE/edit?usp=sharing)
 
 [Long form discussion of how survey results were interpreted for recommendation of S2020 student evaluations](https://docs.google.com/document/d/1RlrViYR7zhy47QOj-HupAdgUV1ye7c1vxBR62lYMwNM/edit?usp=sharing)
 
-[March 6, 2020: Meeting with Martial Herbert](https://docs.google.com/document/d/1juPCMiZg1hSDviHHYYPVg2fJ9--N6qY-Ii0uup6KwxM/edit?usp=sharing)
-
-# Committee meeting minutes
+# Committee Meeting Minutes
 
 [March 25](https://docs.google.com/document/d/10_843JagT8VaUyXFXp4RKVQry1_kd7Joki-vwhc75WY/edit?usp=sharing)
 
-[Match 30](https://docs.google.com/document/d/1CekkX1WcmHNAl5fFIIRcUURsbXZUGhDauc6ZTFX8_Ew/edit?usp=sharing)
+[March 30](https://docs.google.com/document/d/1CekkX1WcmHNAl5fFIIRcUURsbXZUGhDauc6ZTFX8_Ew/edit?usp=sharing)
 
 [Old, general minutes](https://docs.google.com/document/d/1xRH22CeUy_1k9F0Y-rxLb0yUbbYN2O-r9xiaI87AUsU/edit)
+
+# Minutes for Committee Meetings with Dean Martial Hebert
+
+[June 19, 2020](https://docs.google.com/document/d/1kf64oMjVjfAwRqfJyNEbiKvZG6p1uXMjNcdTGx_fWoI/edit?usp=sharing): Initial Summer 2020 General Meeting with Dean's Office
+
+May 1, 2020 (Minutes TBD): Closing Spring 2020 General Meeting with Dean's Office
+
+[March 6, 2020](https://docs.google.com/document/d/1juPCMiZg1hSDviHHYYPVg2fJ9--N6qY-Ii0uup6KwxM/edit?usp=sharing): Initial Spring 2020 General Meeting with Dean's Office
