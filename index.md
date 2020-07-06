@@ -52,6 +52,8 @@ Contact: leochen @-cmu-dot-edu
 
 # Committee Meeting Minutes
 
+[July 6, 2020](https://docs.google.com/document/d/1HqjYVjmMkWVTjgDdxSsw3DWq1ZQl7TDVsFA20xafO2c/edit?usp=sharing)
+
 [June 22, 2020](https://docs.google.com/document/d/1I7Mp_jV_gtx4Q8VnS3QCq_5fb2qZeEywreBBhJYgIRQ/edit?usp=sharing)
 
 [June 8, 2020](https://docs.google.com/document/d/1A83ao5ez2D3uzQ_6V1d9DJ-ga7TfGVswf3CixwFujmU/edit?usp=sharing)
