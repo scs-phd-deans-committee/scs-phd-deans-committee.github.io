@@ -22,6 +22,10 @@ Contact: vdean @-andrew-dot-cmu-dot-edu
 
 Goal: Make it easier to build social connections both within and across departments, and encourage mentoring relationships.
 
+Ongoing programs: 
+* Weekly board games
+* [Coffee Chat Program](https://forms.gle/ztjPzWC4nut1Gune7)
+
 Meeting time: 1-2pm on Fridays
 
 Contact: hlzhou @-andrew-dot-cmu-dot-edu
