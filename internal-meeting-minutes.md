@@ -4,6 +4,8 @@ title: Committee Meeting Minutes
 
 # Committee Meeting Minutes
 
+[August 17, 2020](https://docs.google.com/document/d/1Lc4VkKBEmVlHKD6eeNKb89H3mX9iT8D0QBHPnPauLfY/edit?usp=sharing)
+
 [August 3, 2020](https://docs.google.com/document/d/1k95_tMRnAa5A65oOTyZZgJBbPH2BPf915izEJuA1ymE/edit?usp=sharing)
 
 [July 20, 2020](https://docs.google.com/document/d/1c7H36ODiP5XpEuSjkJOBzSADGzj_kJTpX0d8-qhUXVg/edit?usp=sharing)
