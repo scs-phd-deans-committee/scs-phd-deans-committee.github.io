@@ -4,6 +4,8 @@ title: Committee Meeting Minutes
 
 # Committee Meeting Minutes
 
+[August 31, 2020](https://docs.google.com/document/d/1Wx0OFz5S3Jhp0ImlaHz8OetKlwUVJCqz9Q4HuC84OVE/edit?usp=sharing): Fall 2020 kick-off
+
 [August 17, 2020](https://docs.google.com/document/d/1Lc4VkKBEmVlHKD6eeNKb89H3mX9iT8D0QBHPnPauLfY/edit?usp=sharing)
 
 [August 3, 2020](https://docs.google.com/document/d/1k95_tMRnAa5A65oOTyZZgJBbPH2BPf915izEJuA1ymE/edit?usp=sharing)
