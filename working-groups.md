@@ -24,14 +24,18 @@ Ongoing programs:
 * Weekly board games
 * [Coffee Chat Program](https://forms.gle/ztjPzWC4nut1Gune7)
 
-Meeting time: Weekly, TBD
+Meeting time: 3-4pm on Fridays
 
 Contact: hlzhou @-andrew-dot-cmu-dot-edu
 
-**Student Representation Working Group**
+**Anti-racism Working Group**
 
-Goal: Working to get student representation on decision-making committees in SCS. We have two focuses for the summer: in the short term, trying to get student representation on the D&I Dean search committee (as they will be starting work soon). We will also be identifying committees in which student representation is needed and identifying structural barriers and reaching out to administrative allies in getting student representation.
+Goal: We will release a set of anti-racist asks to the SCS administration, and we will be holding the administration accountable for following through.
 
-Meeting time: TBD
+Meeting time: 1:30-2:30pm on Thursdays
 
 Contact: vdean @-andrew-dot-cmu-dot-edu
+
+**Interested in starting your own working group?**
+
+Any SCS PhD student who wants to work on something in line with our mission statement is welcome to launch their own working group. If you have an interest or even an inkling of an idea, don't hesitate to reach out to scs.phd.committee@gmail.com .
