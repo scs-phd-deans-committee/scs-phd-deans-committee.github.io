@@ -36,6 +36,18 @@ Meeting time: 1:30-2:30pm on Thursdays
 
 Contact: vdean @-andrew-dot-cmu-dot-edu
 
+**Remote Personal Wellness **
+
+Goal: This group will focus on identifying areas where individual wellness can be improved across the body of SCS students. This includes physical and mental health and will likely include investigating the resources available to students and understanding how students currently address wellness concerns. 
+
+Timeline: One Semester 
+
+Deliverables: A concise document about the key challenges and current resources as well as suggestions for future semesters 
+
+Meeting time: TBD
+
+Contact: aajoshi @-andrew-dot-cmu-dot-edu
+
 **Interested in starting your own working group?**
 
 Any SCS PhD student who wants to work on something in line with our mission statement is welcome to launch their own working group. If you have an interest or even an inkling of an idea, don't hesitate to reach out to scs.phd.committee@gmail.com .
