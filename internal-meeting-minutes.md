@@ -4,6 +4,8 @@ title: Committee Meeting Minutes
 
 # Committee Meeting Minutes
 
+[October 26, 2020](https://docs.google.com/document/d/1dzuUIDm1zinFRQyHSceXwvTWwBRpIn8DUe_cXaH6Erw/edit?usp=sharing): Welcome new admin working group leaders, passed constitutional amendments.
+
 [October 5, 2020](https://docs.google.com/document/d/1wptx7vFFjQn3ZJFOQV7FRKVW0PRVq7E3R67L--lz29Q/edit?usp=sharing): Announced election candidates; proposed constitution amendments; launched new "Remote Personal Wellness" working group.
 
 [August 31, 2020](https://docs.google.com/document/d/1Wx0OFz5S3Jhp0ImlaHz8OetKlwUVJCqz9Q4HuC84OVE/edit?usp=sharing): Fall 2020 kick-off
