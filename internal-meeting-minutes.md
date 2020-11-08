@@ -4,6 +4,10 @@ title: Committee Meeting Minutes
 
 # Committee Meeting Minutes
 
+All the meeting minutes from our general body meetings can be found in this [Google Drive folder](https://drive.google.com/drive/folders/1lGUQDDVqopP35yfSM15VjNAfbkWs-nzA?usp=sharing). For the time being, we will also continue updating this granular list, with notes on any major updates.
+
+[November 9, 2020](https://docs.google.com/document/d/17KV2qIkMKEWG8_lsXjMStqa5ShuaqUuTyAE0dd3FIMA/edit?usp=sharing)
+
 [October 26, 2020](https://docs.google.com/document/d/1dzuUIDm1zinFRQyHSceXwvTWwBRpIn8DUe_cXaH6Erw/edit?usp=sharing): Welcome new admin working group leaders, passed constitutional amendments.
 
 [October 5, 2020](https://docs.google.com/document/d/1wptx7vFFjQn3ZJFOQV7FRKVW0PRVq7E3R67L--lz29Q/edit?usp=sharing): Announced election candidates; proposed constitution amendments; launched new "Remote Personal Wellness" working group.
