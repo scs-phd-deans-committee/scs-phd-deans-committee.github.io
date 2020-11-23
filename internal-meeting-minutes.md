@@ -6,6 +6,8 @@ title: Committee Meeting Minutes
 
 All the meeting minutes from our general body meetings can be found in this [Google Drive folder](https://drive.google.com/drive/folders/1lGUQDDVqopP35yfSM15VjNAfbkWs-nzA?usp=sharing). For the time being, we will also continue updating this granular list, with notes on any major updates.
 
+[Novermber 23, 2020](https://docs.google.com/document/d/14nLjLxvc2pZ13YPMKTvigoO8gJMQb_Bq6yUeIE0jum0/edit?usp=sharing)
+
 [November 9, 2020](https://docs.google.com/document/d/17KV2qIkMKEWG8_lsXjMStqa5ShuaqUuTyAE0dd3FIMA/edit?usp=sharing)
 
 [October 26, 2020](https://docs.google.com/document/d/1dzuUIDm1zinFRQyHSceXwvTWwBRpIn8DUe_cXaH6Erw/edit?usp=sharing): Welcome new admin working group leaders, passed constitutional amendments.
