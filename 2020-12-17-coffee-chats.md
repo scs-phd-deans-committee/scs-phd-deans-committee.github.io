@@ -1,3 +1,7 @@
+---
+title: SCS PhD Coffee Chats - A Semester in Review
+---
+
 # SCS PhD Coffee Chats - A Semester in Review
 
 _Author: Helen Zhou_
