@@ -6,9 +6,15 @@ title: SCS PhD Coffee Chats - A Semester in Review
 
 This semester (Fall 2020), we kicked off the inaugural SCS PhD Coffee Chats program! The goal of the program is to encourage spontaneous connection, friendship, and mentorship throughout SCS. In light of the pandemic, we felt it especially important to connect students of all years and departments in the School of Computer Science. Over the course of the semester we've received a lot of positive and constructive feedback, and heard from students who've wanted to implement smaller-scale version of coffee chats in their own departments. Thus, we figured we'd explain the details of the program in a reproducible way, including the matching algorithm, lessons learned, and some statistics about participation.
 
+## Contents
+1. [How it Works - Participant View](#how-it-works---participant-view)
+2. [Matching Algorithm](#matching-algorithm)
+3. [Feedback](#feedback)
+4. [Participation Statistics](#participation-statistics)
+
 ## How it Works - Participant View
 
-To be matched for the following week, students fill out [this 2-minute form](https://forms.gle/bFBAQmfyTxbewdL3A) (edit access to a blank copy given upon request). Students must be signed into their school email account in order to fill out the form.
+To be matched for the following week, students fill out a 2-minute form like [this](https://forms.gle/bFBAQmfyTxbewdL3A) (this is a publicly accessible link instead of the CMU-accessible link; edit access to a blank copy given upon request). Students must be signed into their school email account in order to fill out the form.
 
 The form asks for the student's name, pronouns, department, year, 
 availability, whether they prefer zoom or in-person interactions, and whether they want to be in a pair or placed in a group of 3 or 4 students. Then, they select which type of match they are looking for: friendship outside of work, research topic, and mentorship. 
