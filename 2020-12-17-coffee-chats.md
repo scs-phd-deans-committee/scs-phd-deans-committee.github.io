@@ -4,12 +4,6 @@ title: SCS PhD Coffee Chats - A Semester in Review
 
 # SCS PhD Coffee Chats - A Semester in Review
 
-_Author: Helen Zhou_
-
-_The PhD Coffee Chats program was made possible by the collective hard work and insight of [the Social Connectedness Working Group](https://scs-phd-deans-committee.github.io/working-groups); thank you to Catherine King, Abhinav Adduri, Tobias Durschmid, Ritam Dutta, Roger Iyengar, Shilpa George, Leo Chen, and anyone else who helped at various stages of ideation, creation, and deployment!_
-
---
-
 This semester (Fall 2020), we kicked off the inaugural SCS PhD Coffee Chats program! The goal of the program is to encourage spontaneous connection, friendship, and mentorship throughout SCS. In light of the pandemic, we felt it especially important to connect students of all years and departments in the School of Computer Science. Over the course of the semester we've received a lot of positive and constructive feedback, and heard from students who've wanted to implement smaller-scale version of coffee chats in their own departments. Thus, we figured we'd explain the details of the program in a reproducible way, including the matching algorithm, lessons learned, and some statistics about participation.
 
 ## How it Works - Participant View
@@ -119,4 +113,7 @@ Here are some numbers-driven takeaways from our program:
 
 Thank you to all of you who participated in and/or provided feedback on the program! If you're interested in getting involved or have any questions, comments, or concerns, please direct them to hlzhou[at]andrew.cmu.edu.
 
+_Written by Helen Zhou_
+
+_The PhD Coffee Chats program was made possible by the collective hard work and insight of [the Social Connectedness Working Group](https://scs-phd-deans-committee.github.io/working-groups); thank you to Catherine King, Abhinav Adduri, Tobias Durschmid, Ritam Dutta, Roger Iyengar, Shilpa George, Leo Chen, and anyone else who helped at various stages of ideation, creation, and deployment!_
 
