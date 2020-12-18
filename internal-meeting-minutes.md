@@ -6,6 +6,10 @@ title: Committee Meeting Minutes
 
 All the meeting minutes from our general body meetings can be found in this [Google Drive folder](https://drive.google.com/drive/folders/1lGUQDDVqopP35yfSM15VjNAfbkWs-nzA?usp=sharing). For the time being, we will also continue updating this granular list, with notes on any major updates.
 
+[December 21, 2020](https://docs.google.com/document/d/1lzQBWdWZb5morPn3kvjcHTl7x8oJan9NXpbmquGuWU4/edit?usp=sharing): Feedback session
+
+[December 7, 2020](https://docs.google.com/document/d/1noGDTkegV3Og-WhRM9ISZ9GMjIJT5wUTeExSpsEn9PE/edit?usp=sharing): Plans for next semester
+
 [Novermber 23, 2020](https://docs.google.com/document/d/14nLjLxvc2pZ13YPMKTvigoO8gJMQb_Bq6yUeIE0jum0/edit?usp=sharing)
 
 [November 9, 2020](https://docs.google.com/document/d/17KV2qIkMKEWG8_lsXjMStqa5ShuaqUuTyAE0dd3FIMA/edit?usp=sharing)
