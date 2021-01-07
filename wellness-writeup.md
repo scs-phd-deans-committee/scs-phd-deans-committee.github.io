@@ -2,7 +2,7 @@
 #### From the SCS Ph.D. Dean's Advisory Committee
 
 ### Part 1: Interviews
-We conducted 28 interviews over 2 months across all departments in SCS of abour 15 minutes each. 
+We conducted 28 interviews over 2 months across all departments in SCS of about 15 minutes each. 
 
 
 
