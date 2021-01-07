@@ -42,7 +42,7 @@ Goal: This group will focus on identifying areas where individual wellness can b
 
 Timeline: One Semester 
 
-Deliverables: A concise document about the key challenges and current resources as well as suggestions for future semesters 
+Deliverables: A [concise document](wellness-writeup.md) about the key challenges and current resources as well as suggestions for future semesters 
 
 Meeting time: TBD
 
