@@ -2,7 +2,6 @@
 #### From the SCS Ph.D. Dean's Advisory Committee
 
 ### Part 1: Interviews
-<center>
 We conducted 28 interviews over 2 months across all departments in SCS of abour 15 minutes each. 
 
 
@@ -17,7 +16,6 @@ We conducted 28 interviews over 2 months across all departments in SCS of abour 
 | MLD      | 3     |
 | RI      | 5     |
 
-</center>
 
 Some of the most important topics that came up frequently in our interviews were:
 
@@ -28,11 +26,9 @@ Some of the most important topics that came up frequently in our interviews were
 
 
 
-<center>
 
-![A breakdown of concerns from the interviews.](wellness/graph.png "A breakdown of concerns from the interviews.")
+![A breakdown of concerns from the interviews.](wellness/graph.png)
 
-</center>
 
 ### Part 2: Department Information 
 
