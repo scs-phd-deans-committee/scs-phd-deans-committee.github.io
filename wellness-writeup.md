@@ -29,8 +29,8 @@
 
 
 
-<object data="wellness/athletics.pdf" width="1000" height="1000" type='application/pdf'/> </object>
-<object data="wellness/newsletter.pdf" width="1000" height="1000" type='application/pdf'/> </object>
+<object data="wellness/athletics.pdf" width="700" height="700" type='application/pdf'/></object>
+<object data="wellness/newsletter.pdf" width="700" height="700" type='application/pdf'/></object>
 
 
 ### Part 2: Department Information 
