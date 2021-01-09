@@ -86,14 +86,13 @@ Last updated on: January 9th 2020
 Committee Members: Jessica Colnago, Pratik Fegade, Ananya Joshi, Jay Patrikar, Samantha Reig
 
 Please contact scs.phd.committee@gmail.com or aajoshi@andrew.cmu.edu if you have any additions, comments, corrections, or concerns.
-
-![Athletics PDF](wellness/athletics.pdf)
-PDF 1
-<p>
+ <section>
 <object 
 data="wellness/athletics.pdf" 
 type='application/pdf'/></object>
-</p>
+ </section>
+PDF 1
+
 <p>
 PDF 2
 <object 
