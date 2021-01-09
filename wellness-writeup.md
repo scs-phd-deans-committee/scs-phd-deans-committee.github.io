@@ -89,7 +89,5 @@ Please contact scs.phd.committee@gmail.com or aajoshi@andrew.cmu.edu if you have
 
 
 
-<iframe>
-<object data="wellness/athletics.pdf" width="700" height="700" type='application/pdf'/></object>
-<object data="wellness/newsletter.pdf" width="700" height="700" type='application/pdf'/></object>
-</iframe>
+<object data="wellness/athletics.pdf" type='application/pdf'/></object>
+<object data="wellness/newsletter.pdf" type='application/pdf'/></object>
