@@ -89,15 +89,18 @@ Please contact scs.phd.committee@gmail.com or aajoshi@andrew.cmu.edu if you have
 
 
 PDF 1
+<p>
 <object 
 data="wellness/athletics.pdf" 
 width="1000" 
 height="1000" 
 type='application/pdf'/></object>
-
+</p>
+<p>
 PDF 2
 <object 
 data="wellness/newsletter.pdf" 
 width="1000" 
 height="1000" 
 type='application/pdf'/></object>
+</p>
