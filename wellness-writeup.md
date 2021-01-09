@@ -28,6 +28,10 @@
     - [SCS Coffee Chats (Information)](https://scs-phd-deans-committee.github.io/2020-12-17-coffee-chats.html): After filling out a sign up form (about 2 mins),  you can meet up with other SCS Ph.D. students for one-on-one or group meet up sessions for friendships outside work, research topic match, or mentorship. [Sign up here!](https://docs.google.com/forms/d/e/1FAIpQLSeSLPVpTk_PUAJfUoT2fgWg8uaumJN6_A5KAn9uz_eroUOiaw/viewform)
 
 
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://scs-phd-deans-committee.github.io/wellness/athletics.pdf" width="500" height="375">
+
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://scs-phd-deans-committee.github.io/wellness/newsletter.pdf" width="500" height="375">
+
 ### Part 2: Department Information 
 
 We requested the following information from departments: 
@@ -86,7 +90,6 @@ Last updated on: January 9th 2020
 Committee Members: Jessica Colnago, Pratik Fegade, Ananya Joshi, Jay Patrikar, Samantha Reig
 
 Please contact scs.phd.committee@gmail.com or aajoshi@andrew.cmu.edu if you have any additions, comments, corrections, or concerns.
-PDF 1
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://scs-phd-deans-committee.github.io/wellness/athletics.pdf" width="500" height="375">
-PDF 2
+
+
 
