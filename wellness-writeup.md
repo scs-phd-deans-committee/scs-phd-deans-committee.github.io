@@ -27,18 +27,10 @@
 
     - [SCS Coffee Chats (Information)](https://scs-phd-deans-committee.github.io/2020-12-17-coffee-chats.html): After filling out a sign up form (about 2 mins),  you can meet up with other SCS Ph.D. students for one-on-one or group meet up sessions for friendships outside work, research topic match, or mentorship. [Sign up here!](https://docs.google.com/forms/d/e/1FAIpQLSeSLPVpTk_PUAJfUoT2fgWg8uaumJN6_A5KAn9uz_eroUOiaw/viewform)
 
-<object data=wellness/athletics.pdf type="application/pdf" width="700px" height="700px">
-    <embed src=wellness/athletics.pdf>
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
 
-<object data=wellness/newsletter.pdf type="application/pdf" width="700px" height="700px">
-    <embed src=wellness/newsletter.pdf>
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
 
+<object data="{{ wellness/athletics.pdf }}" width="1000" height="1000" type='application/pdf'/> </object>
+<object data="{{ wellness/newsletter.pdf }}" width="1000" height="1000" type='application/pdf'/> </object>
 
 
 ### Part 2: Department Information 
