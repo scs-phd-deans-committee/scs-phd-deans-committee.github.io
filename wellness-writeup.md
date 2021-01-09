@@ -11,7 +11,7 @@
     - [CMU GroupX Classes](https://athletics.cmu.edu/fitness/ondemandhome)
     - [CMU Athletics Beginner Workouts](https://athletics.cmu.edu/fitness/files/BeginnersGuide.pdf)
     - [CMU Athletics "No Excuses" Workout](https://athletics.cmu.edu/fitness/files/TheNoExcusesWorkout.pdf)
-    - [Wellness Flyer](wellness/athletics.pdf)
+    - [Fitness Flyer](wellness/athletics.pdf)
     - Other ideas from students:
         - See if your department has a running group (or start one) 
         - There are many group fitness classes that would be fun to do with your cohort
@@ -28,9 +28,19 @@
     - [SCS Coffee Chats (Information)](https://scs-phd-deans-committee.github.io/2020-12-17-coffee-chats.html): After filling out a sign up form (about 2 mins),  you can meet up with other SCS Ph.D. students for one-on-one or group meet up sessions for friendships outside work, research topic match, or mentorship. [Sign up here!](https://docs.google.com/forms/d/e/1FAIpQLSeSLPVpTk_PUAJfUoT2fgWg8uaumJN6_A5KAn9uz_eroUOiaw/viewform)
 
 
+
+
+Fitness Flyer from CMU Recreation
 <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://scs-phd-deans-committee.github.io/wellness/athletics.pdf" width="500" height="375">
 
+
+Wellness Newsletter from BeWell@CMU
 <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://scs-phd-deans-committee.github.io/wellness/newsletter.pdf" width="500" height="375">
+
+
+
+
+
 
 ### Part 2: Department Information 
 
