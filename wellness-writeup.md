@@ -95,7 +95,7 @@ Some of the most important topics that came up frequently in our interviews were
 ![A breakdown of concerns from the interviews.](wellness/graph.png)
 
 
-Last updated on: January 9th 2020
+Last updated on: January 9th, 2021
 
 Committee Members: Jessica Colnago, Pratik Fegade, Ananya Joshi, Jay Patrikar, Samantha Reig
 
