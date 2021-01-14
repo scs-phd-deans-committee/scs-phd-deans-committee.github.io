@@ -37,14 +37,15 @@ Fitness Flyer from CMU Recreation
 Wellness Newsletter from BeWell@CMU
 <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://scs-phd-deans-committee.github.io/wellness/newsletter.pdf" width="500" height="375">
 
-
+Additional Wellness Tips
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://scs-phd-deans-committee.github.io/wellness/General_Wellness_Tips.docx" width="500" height="375">
 
 
 
 
 ### Part 2: Department Information 
 
-We requested the following information from departments: 
+We requested the following information from departments and programs: 
 * Has your department/program set any form of mentoring or environment across cohorts that would allow this institutional knowledge to be easily requested and shared?
 * We would like to ask if your department/program has provided ways to help students with their ergonomics needs
 * Has your department/program set any form of support for students in regard to access to supplies we would otherwise have easy access to on campus?
@@ -52,19 +53,19 @@ We requested the following information from departments:
 * Is there anything from the department to encourage physical and mental wellness over the semester break?
 * Are there ways the department is working to maintain work-life balance between students and faculty?
 
-Their responses are summarized in the following: 
+The summaries from the responses are summarized in the following: 
 
-| SCS Department  | Response Highlights | Contact Points |
+| SCS Department (Programs)  | Response Highlights | Contact Points |
 | ------------- |:-------------:|-------------|
 | CB      | There are some holiday parties, and the department is planning to check in with all students mid-break. Faculty are taking a course in mental health awareness.   | [Ziv Bar-Joseph](zivbj@andrew.cmu.edu), [Nicole Stenger](nstenger@andrew.cmu.edu), [Russell Schwartz](russells@andrew.cmu.edu)|
 | CSD      | Students can participate in social activities such virtual board games and CSD tea. The advisor-advisee form has been good for encouraging conversations between students and their advisors, can be used by students to voice any concerns they might have.    | [Venkatesan Guruswami](venkatg@andrew.cmu.edu), [Deb Cavlovich](deb@cs.cmu.edu) |
 | HCII      | New students were added to a PhD student Slack and d-list at the beginning of the semester, and have kept in touch through regularly scheduled Tea Times and informally (e.g., through email, Slack, or private Zoom meetings). Students work with their advisors, the program coordinators, and/or SCS Facilities to meet their ergonomics needs, and usually work directly with their advisors for getting supplies.   | [Jeffrey Bigham](jbigham@andrew.cmu.edu), [Queenie Kravitz](qkravitz@cs.cmu.edu)|
-| ISR (SC + SE)  | Students are encouraged to bring up wellness concerns during townhalls and can request office space or small ergonomics accessories. There were also three catered mentoring lunches for senior PhD students to interact with junior students. | [Nicolas Christin](nicolasc@andrew.cmu.edu), [Connie Herold](cherold@andrew.cmu.edu), [Christian Kaestner](ckaestne@andrew.cmu.edu)|
+| ISR (SC + SE Programs)  | Students are encouraged to bring up wellness concerns during townhalls and can request office space or small ergonomics accessories. There were also three catered mentoring lunches for senior PhD students to interact with junior students. | [Nicolas Christin](nicolasc@andrew.cmu.edu), [Connie Herold](cherold@andrew.cmu.edu), [Christian Kaestner](ckaestne@andrew.cmu.edu)|
 | LTI     | There are socialization opportunities via Gather Town and weekly board games online. | [Robert Frederking](ref@cs.cmu.edu), [Stacey Young](staceyy@cs.cmu.edu)|
-| MLD      | There is a Ph.D. mentor program for students and the head of the department meets 1-on-1 with each first year student at the end of each semester.  | [Tom Mitchell](mitchell@andrew.cmu.edu), [Sharon Cavlovich](sharonw@andrew.cmu.edu) |
+| MLD      | There is a Ph.D. mentor program for students and the head of the department meets 1-on-1 with each first year student at the end of each semester. There is also a [wellness network](https://www.ml.cmu.edu/wellness-network/) where faculty volunteer to hold office hours for students. | [Tom Mitchell](mitchell@andrew.cmu.edu), [Sharon Cavlovich](sharonw@andrew.cmu.edu) |
 | RI      | Quite a few avenues for (virtual) socialization including course working hours and Slack and Facebook groups. Department and advisors engaged in conversations with students for issues related to work-life balance. | [Suzanne Lyons Muth](scrow@andrew.cmu.edu), [David Wettergreen](dw0s@andrew.cmu.edu)|
 
-More information is found [here](https://docs.google.com/spreadsheets/d/1-3R50OMJwUHpCq1jrGu7B110nnwSwH8AFqJVYSukvCM/edit?usp=sharing) (only available to those with a CMU email).
+More information is found [here](https://docs.google.com/spreadsheets/d/1-3R50OMJwUHpCq1jrGu7B110nnwSwH8AFqJVYSukvCM/edit?usp=sharing) (only available to those with a CMU email) for highlights from each department.
 
 
 
@@ -95,7 +96,7 @@ Some of the most important topics that came up frequently in our interviews were
 ![A breakdown of concerns from the interviews.](wellness/graph.png)
 
 
-Last updated on: January 9th, 2021
+Last updated on: January 14th, 2021
 
 Committee Members: Jessica Colnago, Pratik Fegade, Ananya Joshi, Jay Patrikar, Samantha Reig
 
