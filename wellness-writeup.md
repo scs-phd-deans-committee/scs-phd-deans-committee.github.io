@@ -13,21 +13,13 @@
         **Commitment:**  Exercising 2 times a week for 30 minutes in a one on one session in Studio A. Kenner in the Cohon University Center
 
         **Goal:** Exercise 3 times a week for 6 weeks from Feb 1st thru March 19th. 
-
         They will have 10 visits 2 times a week with the interns and one time they will exercise on their own. 
         The interns are looking for up to 10 clients.  The sessions are free as this is part of their academic development for their internship. 
         CMU students participating should be approved as part of the return to campus plan for their department. 
         They should also be doing the daily self assessment and have a valid CMU ID. 
         Those participating will follow university COVID -19 protocols, wear masks while maintaining social distancing at all times on campus.
+        See below for the Waiver and Inquiry form. 
         For more information contact [Pattye Stragar](mailto:pstragar@gmail.com)
-
-        About the Program:
-<p><embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://scs-phd-deans-committee.github.io/wellness/PersonalTraining_Inquiry.docx" width="500" height="375"></p>
-
-        Waiver:
-
-<p><embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://scs-phd-deans-committee.github.io/wellness/PT_PARQ_and_Waiver 2021.docx" width="500" height="375"></p>
-
 
     - [CMU GroupX Classes](https://athletics.cmu.edu/fitness/ondemandhome)
     - [CMU Athletics Beginner Workouts](https://athletics.cmu.edu/fitness/files/BeginnersGuide.pdf)
@@ -50,6 +42,13 @@
 
 
 
+Personal Fitness Inquiry: 
+
+<p><embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://scs-phd-deans-committee.github.io/wellness/PersonalTraining_Inquiry.docx" width="500" height="375"></p>
+
+Waiver:
+
+<p><embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://scs-phd-deans-committee.github.io/wellness/PT_PARQ_and_Waiver 2021.docx" width="500" height="375"></p>
 
 Fitness Flyer from CMU Recreation
 <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://scs-phd-deans-committee.github.io/wellness/athletics.pdf" width="500" height="375">
