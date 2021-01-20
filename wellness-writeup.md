@@ -22,10 +22,13 @@
         For more information contact [Pattye Stragar](mailto:pstragar@gmail.com)
 
         About the Program:
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://scs-phd-deans-committee.github.io/wellness/PersonalTraining_Inquiry.docx" width="500" height="375">
+<p><embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://scs-phd-deans-committee.github.io/wellness/PersonalTraining_Inquiry.docx" width="500" height="375"></p>
 
-        Waiver
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://scs-phd-deans-committee.github.io/wellness/PT_PARQ_and_Waiver 2021.docx" width="500" height="375">
+        Waiver:
+
+<p><embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://scs-phd-deans-committee.github.io/wellness/PT_PARQ_and_Waiver 2021.docx" width="500" height="375"></p>
+
+
     - [CMU GroupX Classes](https://athletics.cmu.edu/fitness/ondemandhome)
     - [CMU Athletics Beginner Workouts](https://athletics.cmu.edu/fitness/files/BeginnersGuide.pdf)
     - [CMU Athletics "No Excuses" Workout](https://athletics.cmu.edu/fitness/files/TheNoExcusesWorkout.pdf)
