@@ -8,7 +8,7 @@
         -  [Recent Issue](wellness/newsletter.pdf) 
     - [GSA Remote Work Resources Guide ](https://drive.google.com/drive/u/1/folders/1FP8CQDvq44GdU29dDSU2ZOLt-8DbtXwO): This folder is quite comprehensive, with guides from setting up your remote workspace to [wellness guides](https://docs.google.com/document/d/1un_QREocDVPwvYazYtcasvYRufnqRbYcUdADDxOR4iM/edit). 
 2. Physical Wellness 
-    - New Opportunity:**Personal Fitness Training**
+    - New Opportunity: **Personal Fitness Training**
 
         **Commitment:**  Exercising 2 times a week for 30 minutes in a one on one session in Studio A. Kenner in the Cohon University Center
 
