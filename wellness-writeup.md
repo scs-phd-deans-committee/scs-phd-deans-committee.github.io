@@ -8,6 +8,16 @@
         -  [Recent Issue](wellness/newsletter.pdf) 
     - [GSA Remote Work Resources Guide ](https://drive.google.com/drive/u/1/folders/1FP8CQDvq44GdU29dDSU2ZOLt-8DbtXwO): This folder is quite comprehensive, with guides from setting up your remote workspace to [wellness guides](https://docs.google.com/document/d/1un_QREocDVPwvYazYtcasvYRufnqRbYcUdADDxOR4iM/edit). 
 2. Physical Wellness 
+    - New Opportunity:
+        **Personal Fitness Training**
+        **Commitment:**  Exercising 2 times a week for 30 minutes in a one on one session in Studio A. Kenner in the Cohon University Center  
+        **Goal:** Exercise 3 times a week for 6 weeks from Feb 1st thru March 19th. 
+        They will have 10 visits 2 times a week with the interns and one time they will exercise on their own. 
+        The interns are looking for up to 10 clients.  The sessions are free as this is part of their academic development for their internship. 
+        CMU students participating should be approved as part of the return to campus plan for their department. 
+        They should also be doing the daily self assessment and have a valid CMU ID. 
+        Those participating will follow university COVID -19 protocols, wear masks while maintaining social distancing at all times on campus.
+        For more information contact [Pattye Stragar](mailto:pstragar@gmail.com)
     - [CMU GroupX Classes](https://athletics.cmu.edu/fitness/ondemandhome)
     - [CMU Athletics Beginner Workouts](https://athletics.cmu.edu/fitness/files/BeginnersGuide.pdf)
     - [CMU Athletics "No Excuses" Workout](https://athletics.cmu.edu/fitness/files/TheNoExcusesWorkout.pdf)
@@ -36,6 +46,7 @@ Fitness Flyer from CMU Recreation
 
 Wellness Newsletter from BeWell@CMU
 <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://scs-phd-deans-committee.github.io/wellness/newsletter.pdf" width="500" height="375">
+
 
 Additional Wellness Tips
 <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://scs-phd-deans-committee.github.io/wellness/General_Wellness_Tips.docx" width="500" height="375">
@@ -96,7 +107,7 @@ Some of the most important topics that came up frequently in our interviews were
 ![A breakdown of concerns from the interviews.](wellness/graph.png)
 
 
-Last updated on: January 14th, 2021
+Last updated on: January 20th, 2021
 
 Committee Members: Jessica Colnago, Pratik Fegade, Ananya Joshi, Jay Patrikar, Samantha Reig
 
