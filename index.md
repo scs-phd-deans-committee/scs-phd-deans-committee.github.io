@@ -21,6 +21,8 @@ Reach us at **scs.phd.committee@gmail.com**
 
 ## Minutes for Committee Meetings with Dean Martial Hebert
 
+[Januray 28, 2021](https://docs.google.com/document/d/1CkTdepxMAkXZ7Y1pesva1hEfCwLxxGtjL85njLKzUb8/edit?usp=sharing): Initial Spring 2021 Meeting with Dean's Office
+
 [September 24, 2020](https://docs.google.com/document/d/1JIzd4VBKPAM9uKYi2g5tqGZOZhf_nfK3wFoRIwYmTv8/edit?usp=sharing): DEI-focused General Meeting with Dean's Office
 
 [August 6, 2020](https://docs.google.com/document/d/1naPCdIS5x1zIAZSAAa4MkHFdL_YwjXLdFYp_s_NKIsA/edit?usp=sharing): Concluding Summer 2020 General Meeting with Dean's Office
