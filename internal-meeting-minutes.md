@@ -6,7 +6,9 @@ title: Committee Meeting Minutes
 
 All the meeting minutes from our general body meetings can be found in this [Google Drive folder](https://drive.google.com/drive/folders/1lGUQDDVqopP35yfSM15VjNAfbkWs-nzA?usp=sharing). For the time being, we will also continue updating this granular list, with notes on any major updates.
 
-[January 20, 2020](https://docs.google.com/document/d/1lzQBWdWZb5morPn3kvjcHTl7x8oJan9NXpbmquGuWU4/edit?usp=sharing): Spring 2021 kick-off
+[February 3, 2021](https://docs.google.com/document/d/19GYcCe8E-_ZOQM1DZeR6BUHDGhVKIjYivTT-wDDfBQs/edit?usp=sharing)
+
+[January 20, 2021](https://docs.google.com/document/d/1lzQBWdWZb5morPn3kvjcHTl7x8oJan9NXpbmquGuWU4/edit?usp=sharing): Spring 2021 kick-off
 
 [December 21, 2020](https://docs.google.com/document/d/1lzQBWdWZb5morPn3kvjcHTl7x8oJan9NXpbmquGuWU4/edit?usp=sharing): Feedback session
 
