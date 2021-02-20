@@ -1,5 +1,6 @@
 ---
 title: Committee Meeting Minutes
+layout: default
 ---
 
 # Committee Meeting Minutes

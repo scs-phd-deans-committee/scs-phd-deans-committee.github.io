@@ -1,5 +1,6 @@
 ---
 title: Working Groups
+layout: default
 ---
 
 # Current Initiatives
@@ -8,9 +9,10 @@ The work of our committee is achieved through collaborative *working groups*, wh
 
 **Mandatory Anti-Bias Course Working Group**
 
-Goal: To develop curriculum for a mandatory course for first-year PhD students on privilege, bias, anti-racism, and allyship. A course overview can be found [here](https://docs.google.com/document/d/1nZTFJlK87vyeONS-FRPizQekQ5MCoyF2XAHu0Zn22mw/edit?usp=sharing).
+*Goal*: To develop curriculum for a mandatory course for first-year PhD students on privilege, bias, anti-racism, and allyship. A course overview can be found [here](https://docs.google.com/document/d/1nZTFJlK87vyeONS-FRPizQekQ5MCoyF2XAHu0Zn22mw/edit?usp=sharing).
 
 For more details on the working group, see [this document](https://docs.google.com/document/d/1ZZsbbQat4bA_CatkxiE7eqr_jTaT1XMDECiDe2v2Qm4/edit?usp=sharing).
+
 
 Meeting time: TBD
 
@@ -18,33 +20,56 @@ Contact: [this survey](https://forms.gle/3vGpgoFYt3mZE2cHA) if you are intereste
 
 **Social Connectedness Working Group**
 
-Goal: Make it easier to build social connections both within and across departments, and encourage mentoring relationships.
+*Goal*: Make it easier to build social connections both within and across departments, and encourage mentoring relationships.
 
 Ongoing programs: 
-* Weekly board games
+* Weekly board games (look for our emails!)
 * [Coffee Chat Program](https://forms.gle/ztjPzWC4nut1Gune7)
 
 Meeting time: 3-4pm on Fridays
+
+
+<img src="/assets/images/social_connectedness/abhinav_adduri.jpg" height="200">
+<img src="/assets/images/social_connectedness/catherine_king.JPG" height="200">
+<img src="/assets/images/social_connectedness/helen_zhou.jpg" height="200">
+<img src="/assets/images/social_connectedness/roger_iyengar.jpg" height="200">
+<img src="/assets/images/social_connectedness/shilpa_george.jpg" height="200">
+<img src="/assets/images/social_connectedness/tobias_durschmid.jpg" height="200">
+
 
 Contact: hlzhou @-andrew-dot-cmu-dot-edu
 
 **Anti-racism Working Group**
 
-Goal: We will release a set of anti-racist asks to the SCS administration, and we will be holding the administration accountable for following through.
+*Goal*: We will release a set of anti-racist asks to the SCS administration, and we will be holding the administration accountable for following through.
 
 Meeting time: 1:30-2:30pm on Thursdays
+
+<img src="/assets/images/antiracism/Anjalie.jpg" height="200">
+<img src="/assets/images/antiracism/abhijatb.jpg" height="200">
+<img src="/assets/images/antiracism/david.jpg" height="200">
+<img src="/assets/images/antiracism/raunaq.JPG" height="200">
+<img src="/assets/images/antiracism/michael.jpg" height="200">
+<img src="/assets/images/antiracism/victoria.jpg" height="200">
 
 Contact: vdean @-andrew-dot-cmu-dot-edu
 
 **Remote Personal Wellness**
 
-Goal: This group will focus on identifying areas where individual wellness can be improved across the body of SCS students. This includes physical and mental health and will likely include investigating the resources available to students and understanding how students currently address wellness concerns. 
+*Goal*: This group will focus on identifying areas where individual wellness can be improved across the body of SCS students. This includes physical and mental health and will likely include investigating the resources available to students and understanding how students currently address wellness concerns. 
 
 Timeline: One Semester 
 
 Deliverables: A [concise document](wellness-writeup.md) about the key challenges and current resources as well as suggestions for future semesters 
 
 Meeting time: TBD
+
+<img src="/assets/images/remote_personal_wellness/Joshi_Ananya.jpg" height="200">
+<img src="/assets/images/remote_personal_wellness/jay_patrikar.jpg" height="200">
+<img src="/assets/images/remote_personal_wellness/Jessica_Colnago.png" height="200">
+<img src="/assets/images/remote_personal_wellness/pratik_fegade.jpg" height="200">
+<!-- <img src="/assets/images/remote_personal_wellness/Group_Photo.png" height="200">
+ -->
 
 Contact: aajoshi @-andrew-dot-cmu-dot-edu
 

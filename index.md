@@ -1,5 +1,6 @@
 ---
 title: SCS PhD Dean's Advisory Committee
+layout: default
 ---
 
 We are the [PhD Dean's Advisory Committee](https://scsdean.cs.cmu.edu/advisory-committees/index.html). We are committed to **focused action, open involvement, and transparency** towards improving the experience of the current and future PhD students of Carnegie Mellon University's School of Computer Science.

@@ -1,5 +1,6 @@
 ---
 title: Blog Posts
+layout: default
 ---
 
 # Blog Posts

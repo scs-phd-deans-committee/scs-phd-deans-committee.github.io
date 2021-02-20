@@ -1,5 +1,6 @@
 ---
 title: SCS PhD Coffee Chats - A Semester in Review
+layout: default
 ---
 
 # SCS PhD Coffee Chats - A Semester in Review
