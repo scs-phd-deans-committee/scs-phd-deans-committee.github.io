@@ -3,24 +3,15 @@
 
 ### Part 1: Links, Resources, and Information 
 
+[Return to Campus Information](https://scsdean.cs.cmu.edu/alerts/return-to-campus.html): Check out columns 1, 2, or 4 as per your needs!
+
 1. General Wellness Resources
+    - [Comprehensive List of Wellness Resources](https://docs.google.com/presentation/d/1uWS1Evj3NaM6tDc9hJGdRlnY0L8wmCcCfgC2cM8IlSU/edit): Thank you to Angie Lusk for providing such a comprehensive document. 
     - [Wellness Newsletter (sign up)](https://docs.google.com/forms/d/e/1FAIpQLSfIWGsx9CknX_rVkwveMXgUaz-iuso-ELzUfHqnaKfQhdC4Dw/viewform?fbzx=-8819103409924496297#Be%20Well%20Newsletter%20Sign%20Up): A newsletter with current wellness programming and wellness resources
         -  [Recent Issue](wellness/newsletter.pdf) 
     - [GSA Remote Work Resources Guide ](https://drive.google.com/drive/u/1/folders/1FP8CQDvq44GdU29dDSU2ZOLt-8DbtXwO): This folder is quite comprehensive, with guides from setting up your remote workspace to [wellness guides](https://docs.google.com/document/d/1un_QREocDVPwvYazYtcasvYRufnqRbYcUdADDxOR4iM/edit). 
+    - [GSA Vaccine Updates from last meeting]("https://docs.google.com/presentation/d/1uWS1Evj3NaM6tDc9hJGdRlnY0L8wmCcCfgC2cM8IlSU/edit")
 2. Physical Wellness 
-    - New Opportunity: **Personal Fitness Training**
-
-        **Commitment:**  Exercising 2 times a week for 30 minutes in a one on one session in Studio A. Kenner in the Cohon University Center
-
-        **Goal:** Exercise 3 times a week for 6 weeks from Feb 1st thru March 19th. 
-        They will have 10 visits 2 times a week with the interns and one time they will exercise on their own. 
-        The interns are looking for up to 10 clients.  The sessions are free as this is part of their academic development for their internship. 
-        CMU students participating should be approved as part of the return to campus plan for their department. 
-        They should also be doing the daily self assessment and have a valid CMU ID. 
-        Those participating will follow university COVID -19 protocols, wear masks while maintaining social distancing at all times on campus.
-        See below for the Waiver and Inquiry form. 
-        For more information contact [Pattye Stragar](mailto:pstragar@gmail.com)
-
     - [CMU GroupX Classes](https://athletics.cmu.edu/fitness/ondemandhome)
     - [CMU Athletics Beginner Workouts](https://athletics.cmu.edu/fitness/files/BeginnersGuide.pdf)
     - [CMU Athletics "No Excuses" Workout](https://athletics.cmu.edu/fitness/files/TheNoExcusesWorkout.pdf)
@@ -30,25 +21,22 @@
         - There are many group fitness classes that would be fun to do with your cohort
         -Taking hikes 
 3. Mental Wellness
-    - [Headspace Meditation App](https://www.cmu.edu/wellness/): Instructions on the bottom half of the page
-    - [Weekly Gratitude Practice](https://tockify.com/carnegie.mellon.student.affairs/detail/933/1611081000000?tags=health-%26-wellness): Tuesdays 1:30-2:30 PM
+    - [Headspace Meditation App](https://www.cmu.edu/wellness/): Instructions on the bottom half of the page. From Angie Lusk, "Headspace has partnered with Dive in Well, a community of wellness advocates focused on a more equitable and accessible wellness industry; they have added new meditation teachers to lead our members in guided practice. Find it under the Headspace features section on the Explore tab of your app." Thank you, Angie!
+    - [Weekly Gratitude Practice](https://tockify.com/carnegie.mellon.student.affairs/detail/933/1611081000000?tags=health-%26-wellness): Tuesdays 1:30-2:30 PM. From the organizer, "It is small and intimate and we have a lot of regular faces while also welcoming any new members!  Our practice always starts with a mindful moment and is rooted in savoring the present moment for all that it teaches us."
     - [Winter break drop in group](https://tockify.com/carnegie.mellon.student.affairs/detail/931/1611169200000?tags=health-%26-wellness): Wednesday 2 PM until Jan 27th
     - [cAPS Resources](https://www.cmu.edu/counseling/virtual-offerings/index.html#students)
 4. Funding and Ergonomics 
     - Information from the Dean's Office: Previously, there was the  SCS Parents fund and the  Tartan Emergency Fund. These funds have now been combined and now CMU administers funds for all students. Each department has a different approach to providing home office equipment and the department business manager and/or department head should be asked. 
 5. Social Connection: We are looking for more resources/ideas. Many socialization avenues are currently department sponsored. 
-
     - [SCS Coffee Chats (Information)](https://scs-phd-deans-committee.github.io/2020-12-17-coffee-chats.html): After filling out a sign up form (about 2 mins),  you can meet up with other SCS Ph.D. students for one-on-one or group meet up sessions for friendships outside work, research topic match, or mentorship. [Sign up here!](https://docs.google.com/forms/d/e/1FAIpQLSeSLPVpTk_PUAJfUoT2fgWg8uaumJN6_A5KAn9uz_eroUOiaw/viewform)
+6. Other: 
+    - [Power of Rest Series](https://mediaservices.cmu.edu/channel/%22Power+Of+Rest%22+Restorative+Series/195176753)
 
 
 
-Personal Fitness Inquiry: 
+Wellness Resources from Angie
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://scs-phd-deans-committee.github.io/wellness/well_resource.docx" width="500" height="375">
 
-<p><embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://scs-phd-deans-committee.github.io/wellness/PersonalTraining_Inquiry.docx" width="500" height="375"></p>
-
-Waiver:
-
-<p><embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://scs-phd-deans-committee.github.io/wellness/PT_PARQ_and_Waiver 2021.docx" width="500" height="375"></p>
 
 Fitness Flyer from CMU Recreation
 <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://scs-phd-deans-committee.github.io/wellness/athletics.pdf" width="500" height="375">
@@ -117,7 +105,7 @@ Some of the most important topics that came up frequently in our interviews were
 ![A breakdown of concerns from the interviews.](wellness/graph.png)
 
 
-Last updated on: January 20th, 2021
+Last updated on: February 23rd, 2021
 
 Committee Members: Jessica Colnago, Pratik Fegade, Ananya Joshi, Jay Patrikar, Samantha Reig
 
