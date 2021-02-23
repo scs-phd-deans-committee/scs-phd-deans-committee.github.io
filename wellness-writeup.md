@@ -34,19 +34,19 @@
 
 
 
-Wellness Resources from Angie
+[Wellness Resources from Angie](https://scs-phd-deans-committee.github.io/wellness/well_resource.docx)
 <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://scs-phd-deans-committee.github.io/wellness/well_resource.docx" width="500" height="375">
 
 
-Fitness Flyer from CMU Recreation
+[Fitness Flyer from CMU Recreation](https://scs-phd-deans-committee.github.io/wellness/athletics.pdf)
 <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://scs-phd-deans-committee.github.io/wellness/athletics.pdf" width="500" height="375">
 
 
-Wellness Newsletter from BeWell@CMU
+[Wellness Newsletter from BeWell@CMU](https://scs-phd-deans-committee.github.io/wellness/newsletter.pdf)
 <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://scs-phd-deans-committee.github.io/wellness/newsletter.pdf" width="500" height="375">
 
 
-Additional Wellness Tips
+[Additional Wellness Tips](https://scs-phd-deans-committee.github.io/wellness/General_Wellness_Tips.docx)
 <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://scs-phd-deans-committee.github.io/wellness/General_Wellness_Tips.docx" width="500" height="375">
 
 
