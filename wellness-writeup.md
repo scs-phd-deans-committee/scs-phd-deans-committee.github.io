@@ -11,6 +11,7 @@
         -  [Recent Issue](wellness/newsletter.pdf) 
     - [GSA Remote Work Resources Guide ](https://drive.google.com/drive/u/1/folders/1FP8CQDvq44GdU29dDSU2ZOLt-8DbtXwO): This folder is quite comprehensive, with guides from setting up your remote workspace to [wellness guides](https://docs.google.com/document/d/1un_QREocDVPwvYazYtcasvYRufnqRbYcUdADDxOR4iM/edit). 
     - [GSA Vaccine Updates from last meeting]("https://docs.google.com/presentation/d/1uWS1Evj3NaM6tDc9hJGdRlnY0L8wmCcCfgC2cM8IlSU/edit")
+    - [CaPS Wellness Resources](https://www.cmu.edu/counseling/resources/index.html): Provider search, crisis services
 2. Physical Wellness 
     - [CMU GroupX Classes](https://athletics.cmu.edu/fitness/ondemandhome)
     - [CMU Athletics Beginner Workouts](https://athletics.cmu.edu/fitness/files/BeginnersGuide.pdf)
@@ -24,7 +25,8 @@
     - [Headspace Meditation App](https://www.cmu.edu/wellness/): Instructions on the bottom half of the page. From Angie Lusk, "Headspace has partnered with Dive in Well, a community of wellness advocates focused on a more equitable and accessible wellness industry; they have added new meditation teachers to lead our members in guided practice. Find it under the Headspace features section on the Explore tab of your app." Thank you, Angie!
     - [Weekly Gratitude Practice](https://tockify.com/carnegie.mellon.student.affairs/detail/933/1611081000000?tags=health-%26-wellness): Tuesdays 1:30-2:30 PM. From the organizer, "It is small and intimate and we have a lot of regular faces while also welcoming any new members!  Our practice always starts with a mindful moment and is rooted in savoring the present moment for all that it teaches us."
     - [Winter break drop in group](https://tockify.com/carnegie.mellon.student.affairs/detail/931/1611169200000?tags=health-%26-wellness): Wednesday 2 PM until Jan 27th
-    - [cAPS Resources](https://www.cmu.edu/counseling/virtual-offerings/index.html#students)
+    - [CaPS Resources](https://www.cmu.edu/counseling/virtual-offerings/index.html#students)
+    - [CaPS Drop in Groups for all Students](https://www.cmu.edu/counseling/services/spring-2021-virtual-drop-in-groups.pdf)
 4. Funding and Ergonomics 
     - Information from the Dean's Office: Previously, there was the  SCS Parents fund and the  Tartan Emergency Fund. These funds have now been combined and now CMU administers funds for all students. Each department has a different approach to providing home office equipment and the department business manager and/or department head should be asked. 
 5. Social Connection: We are looking for more resources/ideas. Many socialization avenues are currently department sponsored. 
@@ -105,7 +107,7 @@ Some of the most important topics that came up frequently in our interviews were
 ![A breakdown of concerns from the interviews.](wellness/graph.png)
 
 
-Last updated on: February 23rd, 2021
+Last updated on: March 6th, 2021
 
 Committee Members: Jessica Colnago, Pratik Fegade, Ananya Joshi, Jay Patrikar, Samantha Reig
 
