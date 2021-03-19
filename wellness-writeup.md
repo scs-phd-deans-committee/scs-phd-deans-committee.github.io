@@ -51,7 +51,8 @@
 [Additional Wellness Tips](https://scs-phd-deans-committee.github.io/wellness/General_Wellness_Tips.docx)
 <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://scs-phd-deans-committee.github.io/wellness/General_Wellness_Tips.docx" width="500" height="375">
 
-
+[CMU Cares Resources](https://scs-phd-deans-committee.github.io/wellness/cmu_cares.pdf)
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://scs-phd-deans-committee.github.io/wellness/cmu_cares.pdf" width="500" height="375">
 
 
 ### Part 2: Department Information 
@@ -107,7 +108,7 @@ Some of the most important topics that came up frequently in our interviews were
 ![A breakdown of concerns from the interviews.](wellness/graph.png)
 
 
-Last updated on: March 6th, 2021
+Last updated on: March 19th, 2021
 
 Committee Members: Jessica Colnago, Pratik Fegade, Ananya Joshi, Jay Patrikar, Samantha Reig
 
