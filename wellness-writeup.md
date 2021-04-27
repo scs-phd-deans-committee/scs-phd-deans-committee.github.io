@@ -33,7 +33,9 @@
     - [SCS Coffee Chats (Information)](https://scs-phd-deans-committee.github.io/2020-12-17-coffee-chats.html): After filling out a sign up form (about 2 mins),  you can meet up with other SCS Ph.D. students for one-on-one or group meet up sessions for friendships outside work, research topic match, or mentorship. [Sign up here!](https://docs.google.com/forms/d/e/1FAIpQLSeSLPVpTk_PUAJfUoT2fgWg8uaumJN6_A5KAn9uz_eroUOiaw/viewform)
 6. Other: 
     - [Power of Rest Series](https://mediaservices.cmu.edu/channel/%22Power+Of+Rest%22+Restorative+Series/195176753)
-
+    - [Transforming Chronic Pain to Reclaim your Life](https://docs.google.com/forms/d/e/1FAIpQLSdtdXgwlD85tLCGOyenJArP1_y5YxmvA_a1IUACNksHNTdGnA/viewform): May 6th and May 13th
+    - [Connection to Nature Mindfulness Series](https://docs.google.com/forms/d/e/1FAIpQLSc-v0AJbyZImiS6JN_XhevlntPdtUJmQjMkQ2A1UCpKRpPaLA/viewform):May 13, 20, and June 3, 10 and 17th, 11-11:45 a.m. EST 
+    - [Student Affairs Calendar](https://www.cmu.edu/student-affairs/get-involved/calendar.html)
 
 
 [Wellness Resources from Angie](https://scs-phd-deans-committee.github.io/wellness/well_resource.docx)
@@ -108,7 +110,7 @@ Some of the most important topics that came up frequently in our interviews were
 ![A breakdown of concerns from the interviews.](wellness/graph.png)
 
 
-Last updated on: March 19th, 2021
+Last updated on: April 27th, 2021
 
 Committee Members: Jessica Colnago, Pratik Fegade, Ananya Joshi, Jay Patrikar, Samantha Reig
 
