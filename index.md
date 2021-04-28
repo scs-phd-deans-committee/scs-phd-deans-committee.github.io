@@ -14,7 +14,7 @@ Reach us at **scs.phd.committee@gmail.com**
 
 [Mission statement](https://docs.google.com/document/d/1Qj4Qlu79TpUtTImYFufYOPegloKJJsaPOEMbzo4NkmA/edit?usp=sharing)
 
-[Constitution](SCS_PhD_Advisory_Committee_Constitution.pdf)
+[Constitution](https://scs-phd-deans-committee.github.io/constitution/constitution.pdf)
 
 [March 27, 2020: Recommendation to the Dean's office on S2020 student evaluations](https://docs.google.com/document/d/1CfT4g4fvFHR1Uh7WdZ97Yxi84kq0UGNvi-1FX0HtCKE/edit?usp=sharing)
 
