@@ -58,11 +58,11 @@ Contact: vdean @-andrew-dot-cmu-dot-edu
 
 *Goal*: This group will focus on identifying areas where individual wellness can be improved across the body of SCS students. This includes physical and mental health and will likely include investigating the resources available to students and understanding how students currently address wellness concerns. 
 
-Timeline: One Semester 
+Timeline: Three Semesters
 
-Deliverables: A [concise document](wellness-writeup.md) about the key challenges and current resources as well as suggestions for future semesters 
+Deliverables: A [concise document](wellness-writeup.md) about the key challenges and current resources as well as suggestions for future semesters.
 
-Meeting time: TBD
+Meeting time: Summer - Every other Wednesday at noon. 
 
 <img src="/assets/images/remote_personal_wellness/Joshi_Ananya.jpg" height="200">
 <img src="/assets/images/remote_personal_wellness/jay_patrikar.jpg" height="200">
@@ -71,7 +71,7 @@ Meeting time: TBD
 <!-- <img src="/assets/images/remote_personal_wellness/Group_Photo.png" height="200">
  -->
 
-Contact: aajoshi @-andrew-dot-cmu-dot-edu
+Contact: aajoshi @-andrew-dot-cmu-dot-edu or ppf@-andrew-dot-cmu-dot-edu
 
 **Interested in starting your own working group?**
 
