@@ -1,7 +1,7 @@
 # Remote Wellness Resources for SCS Ph.D. Students
 #### From the SCS Ph.D. Dean's Advisory Committee
 
-Thank you to everyone who filled out the Ph.D. survey from DPAC. The concerns raised are pressing, and we are here to support you. 
+[Update note] Thank you to everyone who filled out the Ph.D. survey from DPAC. The concerns raised are pressing, and we are here to support you. Thank you for trusting us. 
 
 ### Part 1: Links, Resources, and Information 
 
