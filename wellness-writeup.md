@@ -1,6 +1,8 @@
 # Remote Wellness Resources for SCS Ph.D. Students
 #### From the SCS Ph.D. Dean's Advisory Committee
 
+Thank you to everyone who filled out the Ph.D. survey from DPAC. The concerns raised are pressing, and we are here to support you. 
+
 ### Part 1: Links, Resources, and Information 
 
 [Return to Campus Information](https://scsdean.cs.cmu.edu/alerts/return-to-campus.html): Check out columns 1, 2, or 4 as per your needs!
