@@ -7,6 +7,10 @@ layout: default
 
 The work of our committee is achieved through collaborative *working groups*, which are open for anyone who wishes to help achieve our goals. Our current initiatives are below. Please contact the working group leader if you would like to participate.
 
+**Interested in starting your own working group?**
+
+Any SCS PhD student who wants to work on something in line with our mission statement is welcome to launch their own working group. If you have an interest or even an inkling of an idea, don't hesitate to reach out to scs.phd.committee@gmail.com .
+
 **Mandatory Anti-Bias Course Working Group**
 
 *Goal*: To develop curriculum for a mandatory course for first-year PhD students on privilege, bias, anti-racism, and allyship. A course overview can be found [here](https://docs.google.com/document/d/1nZTFJlK87vyeONS-FRPizQekQ5MCoyF2XAHu0Zn22mw/edit?usp=sharing).
@@ -73,6 +77,14 @@ Meeting time: Summer - Every other Wednesday at noon.
 
 Contact: aajoshi @-andrew-dot-cmu-dot-edu or ppf@-andrew-dot-cmu-dot-edu
 
-**Interested in starting your own working group?**
+**Undergraduate Research Engagement**
 
-Any SCS PhD student who wants to work on something in line with our mission statement is welcome to launch their own working group. If you have an interest or even an inkling of an idea, don't hesitate to reach out to scs.phd.committee@gmail.com .
+Contact: Erica Weng
+
+**Administrative Tasks**
+
+*Goal*: We're the folks who keep this committee running and figure out how to best support all the working groups. This ranges from organizing the surveys and email updates, to communicating with the Dean, to checking in with working groups and helping them meet their needs.
+
+Meeting time: Mondays at 2
+
+Contact: leochen@-cmu-dot-edu
