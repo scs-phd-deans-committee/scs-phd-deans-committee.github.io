@@ -5,8 +5,15 @@ layout: default
 
 We are the [PhD Dean's Advisory Committee](https://scsdean.cs.cmu.edu/advisory-committees/index.html). We are committed to **focused action, open involvement, and transparency** towards improving the experience of the current and future PhD students of Carnegie Mellon University's School of Computer Science.
 
-Reach us at **scs.phd.committee@gmail.com**
+We currently have multiple initiatives, which you can find on the [Working Groups](working-groups.md) tab. All SCS PhD students are welcome to get involved! If you want to work with any of those working groups or have an idea for a working group of your own, please reach out to us (contact below).
 
+In addition, if you are undergoing challenges or have complaints about your PhD experience, we would love to hear that as well (using the contact below). We may not be able to solve your problem, but it can help us better understand the broader student perspective and pursue more informed advocacy.
+
+# Contact us
+
+We have a dedicated inbox at **scs.phd.committee@gmail.com**
+
+If you want to leave a comment, question, or anonymous feedback, you can leave it in [this form](https://forms.gle/oEmzoGiRSUKsuYLS7)
 
 # Documents for the SCS PhD community
 
