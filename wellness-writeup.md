@@ -1,14 +1,12 @@
 # Remote Wellness Resources for SCS Ph.D. Students
 #### From the SCS Ph.D. Dean's Advisory Committee
 
-[Update note] Thank you to everyone who filled out the Ph.D. survey from DPAC. The concerns raised are pressing, and we are here to support you. Thank you for trusting us. 
-
 ### Part 1: Links, Resources, and Information 
 
 [Return to Campus Information](https://scsdean.cs.cmu.edu/alerts/return-to-campus.html): Check out columns 1, 2, or 4 as per your needs!
 
 1. General Wellness Resources
-    - [Comprehensive List of Wellness Resources](https://docs.google.com/presentation/d/1uWS1Evj3NaM6tDc9hJGdRlnY0L8wmCcCfgC2cM8IlSU/edit): Thank you to Angie Lusk for providing such a comprehensive document. 
+    - [Comprehensive List of Wellness Resources](https://drive.google.com/file/d/11Gxsqk4Z8t1iUenUaKorKRDRWhmRk-8E/view?usp=sharing): Thank you to Angie Lusk for providing such a comprehensive document. 
     - [Wellness Newsletter (sign up)](https://docs.google.com/forms/d/e/1FAIpQLSfIWGsx9CknX_rVkwveMXgUaz-iuso-ELzUfHqnaKfQhdC4Dw/viewform?fbzx=-8819103409924496297#Be%20Well%20Newsletter%20Sign%20Up): A newsletter with current wellness programming and wellness resources
         -  [Recent Issue](wellness/newsletter.pdf) 
     - [GSA Remote Work Resources Guide ](https://drive.google.com/drive/u/1/folders/1FP8CQDvq44GdU29dDSU2ZOLt-8DbtXwO): This folder is quite comprehensive, with guides from setting up your remote workspace to [wellness guides](https://docs.google.com/document/d/1un_QREocDVPwvYazYtcasvYRufnqRbYcUdADDxOR4iM/edit). 
@@ -114,7 +112,7 @@ Some of the most important topics that came up frequently in our interviews were
 
 Last updated on: April 27th, 2021
 
-Committee Members: Jessica Colnago, Pratik Fegade, Ananya Joshi, Jay Patrikar, Samantha Reig
+Committee Members:  Shahul Alam, Jessica Colnago, Pratik Fegade, Ananya Joshi, Jay Patrikar, Samantha Reig
 
 Please contact scs.phd.committee@gmail.com or aajoshi@andrew.cmu.edu if you have any additions, comments, corrections, or concerns.
 
