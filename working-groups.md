@@ -58,7 +58,7 @@ Meeting time: 1:30-2:30pm on Thursdays
 
 Contact: vdean @-andrew-dot-cmu-dot-edu
 
-**Remote Personal Wellness**
+**Personal Wellness**
 
 *Goal*: This group will focus on identifying areas where individual wellness can be improved across the body of SCS students. This includes physical and mental health and will likely include investigating the resources available to students and understanding how students currently address wellness concerns. 
 
