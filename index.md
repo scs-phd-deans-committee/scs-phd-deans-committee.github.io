@@ -23,6 +23,8 @@ If you want to leave a comment, question, or anonymous feedback, you can leave i
 
 [Constitution](https://scs-phd-deans-committee.github.io/constitution/constitution.pdf)
 
+[Orientation / first year resource page](https://scs-phd-deans-committee.github.io/welcome-to-scs/)
+
 [March 27, 2020: Recommendation to the Dean's office on S2020 student evaluations](https://docs.google.com/document/d/1CfT4g4fvFHR1Uh7WdZ97Yxi84kq0UGNvi-1FX0HtCKE/edit?usp=sharing)
 
 [Long form discussion of how survey results were interpreted for recommendation of S2020 student evaluations](https://docs.google.com/document/d/1RlrViYR7zhy47QOj-HupAdgUV1ye7c1vxBR62lYMwNM/edit?usp=sharing)
