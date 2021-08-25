@@ -15,6 +15,8 @@ We have a dedicated inbox at **scs.phd.committee@gmail.com**
 
 If you want to leave a comment, question, or anonymous feedback, you can leave it in [this form](https://forms.gle/oEmzoGiRSUKsuYLS7)
 
+Want a calendar of general body meetings and other major events? [Click here](https://calendar.google.com/calendar/u/1?cid=Y19kcnZhajd1MzU5NzYwcm1uMXY0MzdxYnZpa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to access our calendar.
+
 # Documents for the SCS PhD community
 
 *Please use your CMU account to access these documents.*
