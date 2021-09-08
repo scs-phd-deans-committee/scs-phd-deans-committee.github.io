@@ -64,7 +64,27 @@ Contact: aajoshi @-andrew-dot-cmu-dot-edu or ppf@-andrew-dot-cmu-dot-edu
 
 **Undergraduate Research Engagement**
 
-Contact: Erica Weng
+*Goal*: Increasing SCS undergraduate research participation, improving the undergrad research experience, and improving support and resources for graduate student and faculty research mentoring.
+
+Ongoing initiatives:
+
+* Semester Research Mixers for graduate students / faculty to showcase their work, encourage undergrads to try out research, and answer undergrads' questions about research
+
+* Semester Research Mixers to connect undergrads with specific research projects which graduate students / faculty are offering
+
+* Resources such as Slack workspace to build community among the SCS undergrad research community, "onboarding" documents for prospective undergrad researchers and grad student mentors
+
+* Shadow-a-researcher program, lab-meeting-hopping program
+
+* much more to come!
+
+Meeting time: Every Tuesday at 4:30 pm ET in EDSH (Smith Hall) 200 or on (zoom)[https://cmu.zoom.us/my/ericaw].
+
+<img src="/assets/images/ugrad_research/erica_weng.jpg" height="200">
+<img src="/assets/images/ugrad_research/Pragna_Mannam.jpg" height="200">
+<img src="/assets/images/ugrad_research/gokul_swamy.jpg" height="200">
+
+Contact: dpac-ugrad-re@lists-dot-andrew-dot-cmu-dot-edu or eweng@-andrew-dot-cmu-dot-edu
 
 **Administrative Tasks**
 
