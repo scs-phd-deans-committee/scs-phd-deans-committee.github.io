@@ -78,7 +78,7 @@ Ongoing initiatives:
 
 * much more to come!
 
-Meeting time: Every Tuesday at 4:30 pm ET in EDSH (Smith Hall) 200 or on (zoom)[https://cmu.zoom.us/my/ericaw].
+Meeting time: Every Tuesday at 4:30 pm ET in EDSH (Smith Hall) 200 or on [zoom](https://cmu.zoom.us/my/ericaw).
 
 <img src="/assets/images/ugrad_research/erica_weng.jpg" height="200">
 <img src="/assets/images/ugrad_research/Pragna_Mannam.jpg" height="200">
