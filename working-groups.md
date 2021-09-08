@@ -43,21 +43,6 @@ Meeting time: 3-4pm on Fridays
 
 Contact: hlzhou @-andrew-dot-cmu-dot-edu
 
-**Anti-racism Working Group**
-
-*Goal*: We will release a set of anti-racist asks to the SCS administration, and we will be holding the administration accountable for following through.
-
-Meeting time: 1:30-2:30pm on Thursdays
-
-<img src="/assets/images/antiracism/Anjalie.jpg" height="200">
-<img src="/assets/images/antiracism/abhijatb.jpg" height="200">
-<img src="/assets/images/antiracism/david.jpg" height="200">
-<img src="/assets/images/antiracism/raunaq.JPG" height="200">
-<img src="/assets/images/antiracism/michael.jpg" height="200">
-<img src="/assets/images/antiracism/victoria.jpg" height="200">
-
-Contact: vdean @-andrew-dot-cmu-dot-edu
-
 **Personal Wellness**
 
 *Goal*: This group will focus on identifying areas where individual wellness can be improved across the body of SCS students. This includes physical and mental health and will likely include investigating the resources available to students and understanding how students currently address wellness concerns. 
