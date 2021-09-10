@@ -86,7 +86,7 @@ Meeting time: Every Tuesday at 4:30 pm ET in [EDSH (Smith Hall)](https://goo.gl/
 <img src="/assets/images/ugrad_research/Pragna_Mannam.jpg" height="200">
 <img src="/assets/images/ugrad_research/gokul_swamy.jpg" height="200">
 
-Contact: dpac-ugrad-re@landrew-dot-cmu-dot-edu
+Contact: dpac-ugrad-re@andrew-dot-cmu-dot-edu
 
 **Administrative Tasks**
 
