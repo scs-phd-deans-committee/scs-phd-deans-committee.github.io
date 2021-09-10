@@ -20,6 +20,7 @@ Meeting time: Every Tuesday at 4:30 pm ET in [EDSH (Smith Hall)](https://goo.gl/
 
 
 See some screenshots from our recent zoom SCS Research Mixers!
+
 <img src="/assets/images/ugrad_research/mixer2.png" height="200">
 <img src="/assets/images/ugrad_research/mixer3-title.png" height="200">
 <img src="/assets/images/ugrad_research/mixer3.png" height="200">
