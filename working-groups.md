@@ -64,9 +64,9 @@ Contact: aajoshi @-andrew-dot-cmu-dot-edu or ppf@-andrew-dot-cmu-dot-edu
 
 **Undergraduate Research Engagement**
 
-*Goal*: Increasing SCS undergraduate research participation, improving the undergrad research experience, and improving support and resources for graduate student and faculty research mentoring.
+*Goal*: Increasing SCS undergraduate research participation, improving the undergrad research experience, improving support and resources for graduate student and faculty research mentoring, encouraging disadvantaged and underrepresented individuals to get involved with research! See [here](https://docs.google.com/presentation/d/1ZYcf9KqcQ3-vvu2AGQtvoa65XSDZsu58nRSkUnPV0M8/edit#slide=id.p) for more details.
 
-Ongoing initiatives:
+Ongoing and potential future initiatives:
 
 * Semester Research Mixers for graduate students / faculty to showcase their work, encourage undergrads to try out research, and answer undergrads' questions about research
 
@@ -76,15 +76,17 @@ Ongoing initiatives:
 
 * Shadow-a-researcher program, lab-meeting-hopping program
 
+* [OurCS](https://www.cmu.edu/cs/ourcs/)-like weekend-long program to encourage URI to get involved with research
+
 * much more to come!
 
-Meeting time: Every Tuesday at 4:30 pm ET in EDSH (Smith Hall) 200 or on [zoom](https://cmu.zoom.us/my/ericaw).
+Meeting time: Every Tuesday at 4:30 pm ET in [EDSH (Smith Hall)](https://goo.gl/maps/pggXmJtk3fMTxwP9A) Room 200 (2nd floor) or on [zoom](https://cmu.zoom.us/my/ericaw).
 
 <img src="/assets/images/ugrad_research/erica_weng.jpg" height="200">
 <img src="/assets/images/ugrad_research/Pragna_Mannam.jpg" height="200">
 <img src="/assets/images/ugrad_research/gokul_swamy.jpg" height="200">
 
-Contact: dpac-ugrad-re@lists-dot-andrew-dot-cmu-dot-edu or eweng@-andrew-dot-cmu-dot-edu
+Contact: dpac-ugrad-re@andrew-dot-cmu-dot-edu
 
 **Administrative Tasks**
 
