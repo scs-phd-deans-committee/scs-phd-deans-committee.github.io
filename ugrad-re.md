@@ -16,15 +16,22 @@ Ongoing and potential future initiatives:
 
 * much more to come!
 
-Meeting time: Every Tuesday at 4:30 pm ET in [EDSH (Smith Hall)](https://goo.gl/maps/pggXmJtk3fMTxwP9A) Room 200 (2nd floor) or on [zoom](https://cmu.zoom.us/my/ericaw).
+Meeting time: Every Tuesday at 4:30 pm ET in NSH 4201 ([see map](/assets/images/ugrad_research/nsh_map.png)) on [zoom](https://cmu.zoom.us/my/ericaw).
 
 **Members!**
 
-<img src="/assets/images/ugrad_research/erica_weng.jpg" height="200">
-<img src="/assets/images/ugrad_research/Pragna_Mannam.jpg" height="200">
-<img src="/assets/images/ugrad_research/gokul_swamy.jpg" height="200">
-<img src="/assets/images/ugrad_research/shahul_alam.jpg" height="200">
-
+<img src="/assets/images/ugrad_research/erica_weng.jpg" height="200"> 
+Erica Weng
+<img src="/assets/images/ugrad_research/Pragna_Mannam.jpg" height="200"> 
+Pragna Mannam
+<img src="/assets/images/ugrad_research/gokul_swamy.jpg" height="200"> 
+Gokul Swamy
+<img src="/assets/images/ugrad_research/shahul_alam.jpg" height="200"> 
+Shahul Alam
+Simin Liu
+Rishi Veerapaneni
+Leonid Keselman
+Paul Liang
 
 Some screenshots from our recent zoom SCS Research Mixers!
 
