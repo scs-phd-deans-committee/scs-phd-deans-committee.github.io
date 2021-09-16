@@ -20,14 +20,18 @@ Meeting time: Every Tuesday at 4:30 pm ET in NSH 4201 ([see map](/assets/images/
 
 **Members!**
 
-<img src="/assets/images/ugrad_research/erica_weng.jpg" height="200"> 
 Erica Weng
-<img src="/assets/images/ugrad_research/Pragna_Mannam.jpg" height="200"> 
+<img src="/assets/images/ugrad_research/erica_weng.jpg" height="200">
+
 Pragna Mannam
-<img src="/assets/images/ugrad_research/gokul_swamy.jpg" height="200"> 
+<img src="/assets/images/ugrad_research/Pragna_Mannam.jpg" height="200">
+
 Gokul Swamy
-<img src="/assets/images/ugrad_research/shahul_alam.jpg" height="200"> 
+<img src="/assets/images/ugrad_research/gokul_swamy.jpg" height="200">
+
 Shahul Alam
+<img src="/assets/images/ugrad_research/shahul_alam.jpg" height="200">
+
 Simin Liu
 Rishi Veerapaneni
 Leonid Keselman
