@@ -7,6 +7,12 @@ layout: default
 
 All the meeting minutes from our general body meetings can be found in this [Google Drive folder](https://drive.google.com/drive/folders/1lGUQDDVqopP35yfSM15VjNAfbkWs-nzA?usp=sharing). For the time being, we will also continue updating this granular list, with notes on any major updates.
 
+[Sept 8, 2021](https://docs.google.com/presentation/d/1WWTzHgsCrU1rB4ZpmmFpKFVPW_5ELxp_x8SoZ0GuqIw/edit?usp=sharing): Fall kick off
+
+[May 31, 2021](https://docs.google.com/document/d/1K5Qf0mXmhPIHcrPmHNWcmBGe809ohXgmfFCXUhXnLyY/edit?usp=sharing)
+
+[May 12, 2021](https://docs.google.com/document/d/1gUzcmAYeVKwHumQC9V4X_B1dwQXhXAR0Nty4FyjX9H0/edit?usp=sharing)
+
 [April 28, 2021](https://docs.google.com/document/d/1GlFKEM26rxpqPjFFofDxq34n-PiMD7WPi2NOegteJtM/edit)
 
 [April 14, 2021](https://docs.google.com/document/d/1yGKcDNjKbPR_TZOPLipl-85iynWr71lxyfRANBAkn-M/edit?usp=sharing)
