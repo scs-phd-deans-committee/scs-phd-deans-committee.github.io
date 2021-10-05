@@ -18,7 +18,7 @@ Ongoing and future initiatives:
 
 * much more to come!
 
-Meeting time: Every Tuesday at 4:30 pm ET in NSH 4201 ([see map](/assets/images/ugrad_research/nsh_map.png)) or on [zoom](https://cmu.zoom.us/my/ericaw). If you are interested in improving the research experience for CMU ugrads, please join a meeting to find out how you can contribute! Or email dpac-ugrad-re@andrew.cmu.edu :)
+**Meeting time: Every Tuesday at 4:30 pm ET in NSH 4201 ([see map](/assets/images/ugrad_research/nsh_map.png)) or on [zoom](https://cmu.zoom.us/my/ericaw). If you are interested in improving the research experience for CMU ugrads, please join a meeting to find out how you can contribute! Or email dpac-ugrad-re@andrew.cmu.edu :)**
 
 ## Members!
 
