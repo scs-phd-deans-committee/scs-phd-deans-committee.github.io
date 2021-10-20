@@ -7,6 +7,12 @@ layout: default
 
 All the meeting minutes from our general body meetings can be found in this [Google Drive folder](https://drive.google.com/drive/folders/1lGUQDDVqopP35yfSM15VjNAfbkWs-nzA?usp=sharing). For the time being, we will also continue updating this granular list, with notes on any major updates.
 
+[Oct 20, 2021](https://docs.google.com/presentation/d/1F3uanwJ5nkwTn4XUguHL7BOGLdwyFwjx7vtDAn_fRGg/edit?usp=sharing): Social Connectedness Working group update
+
+[Oct 5, 2021](https://docs.google.com/presentation/d/1B2hvGOZvINihi9YPKQS-nVRxvabzy4Emb62z_KQvbAI/edit?usp=sharing): Anti-racism WG retirement
+
+[Sept 22, 2021](https://docs.google.com/presentation/d/1a98QcQ38lSSWZCq_yBjCZmzavhwuv9Hi8iYRAr09dS4/edit?usp=sharing)
+
 [Sept 8, 2021](https://docs.google.com/presentation/d/1WWTzHgsCrU1rB4ZpmmFpKFVPW_5ELxp_x8SoZ0GuqIw/edit?usp=sharing): Fall kick off
 
 [May 31, 2021](https://docs.google.com/document/d/1K5Qf0mXmhPIHcrPmHNWcmBGe809ohXgmfFCXUhXnLyY/edit?usp=sharing)
