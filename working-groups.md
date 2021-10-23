@@ -39,15 +39,15 @@ Past programs:
 Meeting time: 3-4pm on Fridays
 
 
-<img src="/assets/images/social_connectedness/helen_zhou.jpg" height="200">
-<img src="/assets/images/social_connectedness/tobias_durschmid.jpg" height="200">
-<img src="/assets/images/social_connectedness/catherine_king.JPG" height="200">
-<img src="/assets/images/social_connectedness/abhinav_adduri.jpg" height="200">
-<img src="/assets/images/social_connectedness/rishi_veerapaneni.jpg" height="200">
-<img src="/assets/images/social_connectedness/simin_liu.jpg" height="200">
-<img src="/assets/images/social_connectedness/shahul_alam.jpg" height="200">
-<img src="/assets/images/social_connectedness/nicole_feng.jpg" height="200">
-<img src="/assets/images/social_connectedness/anthony_karahalios.jpg" height="200">
+<img src="/assets/images/social_connectedness/helen_zhou.jpg" height="200" width="200">
+<img src="/assets/images/social_connectedness/tobias_durschmid.jpg" height="200" width="200">
+<img src="/assets/images/social_connectedness/catherine_king.JPG" height="200" width="200">
+<img src="/assets/images/social_connectedness/abhinav_adduri.jpg" height="200" width="200">
+<img src="/assets/images/social_connectedness/rishi_veerapaneni.jpg" height="200" width="200">
+<img src="/assets/images/social_connectedness/simin_liu.jpg" height="200" width="200">
+<img src="/assets/images/social_connectedness/shahul_alam.jpg" height="200" width="200">
+<img src="/assets/images/social_connectedness/nicole_feng.png" height="200" width="200">
+<img src="/assets/images/social_connectedness/anthony_karahalios.JPG" height="200" width="200">
 
 
 Contact: hlzhou @-andrew-dot-cmu-dot-edu
