@@ -27,8 +27,14 @@ Contact: [this survey](https://forms.gle/3vGpgoFYt3mZE2cHA) if you are intereste
 *Goal*: Make it easier to build social connections both within and across departments, and encourage mentoring relationships.
 
 Ongoing programs: 
-* Weekly board games (look for our emails!)
-* [Coffee Chat Program](https://forms.gle/ztjPzWC4nut1Gune7)
+* [Campus-Wide Graduate Coffee Chat Program](https://forms.gle/5GM5C3bXWAzL6qar9)
+* [SCS Research Directory](https://forms.gle/hgPFhGTsJJcxnPji6)
+
+Past programs:
+* SCS Welcome Picnic and Scavenger Hunt (Fall 2021)
+* SCS Coffee Chats (2020-2021, replaced with campus-wide coffee chats)
+* SCS Virtual TGs in Gathertown (2020-2021)
+* Weekly virtual board games (2020-2021)
 
 Meeting time: 3-4pm on Fridays
 
