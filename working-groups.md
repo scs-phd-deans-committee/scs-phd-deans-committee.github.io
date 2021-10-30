@@ -73,7 +73,7 @@ Contact: aajoshi @-andrew-dot-cmu-dot-edu or ppf@-andrew-dot-cmu-dot-edu
 
 **Undergraduate Research Engagement**
 
-*Goal*: Increasing SCS undergraduate research participation, improving the undergrad research experience, improving support and resources for graduate student and faculty research mentoring, encouraging disadvantaged and underrepresented individuals to get involved with research! See [here](https://docs.google.com/presentation/d/1ZYcf9KqcQ3-vvu2AGQtvoa65XSDZsu58nRSkUnPV0M8/edit#slide=id.p) for more details.
+*Goal*: Increasing SCS undergraduate research participation, improving the undergrad research experience, improving support and resources for graduate student and faculty research mentoring, encouraging disadvantaged and underrepresented individuals to get involved with research! See [here](ugrad-re) for more details.
 
 Ongoing and potential future initiatives:
 
@@ -94,6 +94,8 @@ Meeting time: Every Tuesday at 4:30 pm ET in [EDSH (Smith Hall)](https://goo.gl/
 <img src="/assets/images/ugrad_research/erica_weng.jpg" height="200">
 <img src="/assets/images/ugrad_research/Pragna_Mannam.jpg" height="200">
 <img src="/assets/images/ugrad_research/gokul_swamy.jpg" height="200">
+<img src="/assets/images/ugrad_research/shahul_alam.jpg" height="200" width="200">
+<img src="/assets/images/social_connectedness/simin_liu.jpg" height="200" width="200">
 <img src="/assets/images/ugrad_research/shahul_alam.jpg" height="200">
 
 Contact: dpac-ugrad-re@andrew-dot-cmu-dot-edu
