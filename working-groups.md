@@ -97,6 +97,7 @@ Meeting time: Every Tuesday at 4:30 pm ET in [EDSH (Smith Hall)](https://goo.gl/
 <img src="/assets/images/ugrad_research/shahul_alam.jpg" height="200" width="200">
 <img src="/assets/images/social_connectedness/simin_liu.jpg" height="200" width="200">
 <img src="/assets/images/ugrad_research/paul_liang.jpg" height="200">
+<img src="/assets/images/ugrad_research/rishi_veerapaneni.jpg" height="200">
 
 Contact: dpac-ugrad-re@andrew-dot-cmu-dot-edu
 
