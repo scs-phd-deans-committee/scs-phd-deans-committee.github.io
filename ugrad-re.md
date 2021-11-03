@@ -63,9 +63,9 @@ Simin Liu
 
 ## 2021-03-28, 2021-05-06, 2021-09-09 SCS Research Mixers
 
-<img src="/assets/images/ugrad_research/mixer2.png" height="200">
-<img src="/assets/images/ugrad_research/mixer3-title.png" height="200">
-<img src="/assets/images/ugrad_research/mixer3.png" height="200">
+<img src="/assets/images/ugrad_research/events/mixer2.png" height="200">
+<img src="/assets/images/ugrad_research/events/mixer3-title.png" height="200">
+<img src="/assets/images/ugrad_research/events/mixer3.png" height="200">
 
 ## 2021-10-28 SCS Research Panel
-<img src="/assets/images/ugrad_research/10-28-panel.jpg" height="200">
+<img src="/assets/images/ugrad_research/events/10-28-panel.jpg" height="200">
