@@ -71,7 +71,7 @@ Meeting time: Summer - Every other Wednesday at noon.
 
 Contact: aajoshi @-andrew-dot-cmu-dot-edu or ppf@-andrew-dot-cmu-dot-edu
 
-**Undergraduate Research Engagement**
+[**Undergraduate Research Engagement**](ugrad-re)
 
 *Goal*: Increasing SCS undergraduate research participation, improving the undergrad research experience, improving support and resources for graduate student and faculty research mentoring, encouraging disadvantaged and underrepresented individuals to get involved with research! See [here](ugrad-re) for more details.
 
@@ -89,8 +89,9 @@ Ongoing and potential future initiatives:
 
 * much more to come!
 
-Meeting time: Every Tuesday at 4:30 pm ET in [NSH (Newell-Simon Hall)](https://goo.gl/maps/nmaB6AiAtgi6akkX6) [Room 4201](/assets/images/ugrad_research/other/nsh_map.png)
- (2nd floor) or on [zoom](https://cmu.zoom.us/j/93771660453?pwd=b0lTbmlvU2gzL0R6Rld2UTJjOWtHZz09).
+Meeting time: Every Tuesday at 4:30 pm ET in [NSH (Newell-Simon Hall)](https://goo.gl/maps/nmaB6AiAtgi6akkX6) Room 4201 (2nd floor) or on [zoom](https://cmu.zoom.us/j/93771660453?pwd=b0lTbmlvU2gzL0R6Rld2UTJjOWtHZz09).
+<!-- [Room 4201](/assets/images/ugrad_research/other/nsh_map.png) -->
+
 
 <img src="/assets/images/ugrad_research/erica_weng.jpg" height="200">
 <img src="/assets/images/ugrad_research/Pragna_Mannam.jpg" height="200">
