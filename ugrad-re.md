@@ -41,12 +41,31 @@ Rishi Veerapaneni
 
 <img src="/assets/images/ugrad_research/rishi_veerapaneni.jpg" height="200">
 
-Simin Liu
+Jane Hsieh
+
+<img src="/assets/images/ugrad_research/jane_hsieh.jpg" height="200">
+
 Leonid Keselman
+
+<img src="/assets/images/ugrad_research/leonid_keselman.jpg" height="200">
+
 Paul Liang
 
-## Some screenshots from our recent zoom SCS Research Mixers!
+<img src="/assets/images/ugrad_research/paul_liang.jpg" height="200">
+
+Gautam Gare
+
+<img src="/assets/images/ugrad_research/gautam_gare.jpg" height="200">
+
+Simin Liu
+
+<img src="/assets/images/social_connectedness/simin_liu.jpg" height="200">
+
+## 2021-03-28, 2021-05-06, 2021-09-09 SCS Research Mixers
 
 <img src="/assets/images/ugrad_research/mixer2.png" height="200">
 <img src="/assets/images/ugrad_research/mixer3-title.png" height="200">
 <img src="/assets/images/ugrad_research/mixer3.png" height="200">
+
+## 2021-10-28 SCS Research Panel
+<img src="/assets/images/ugrad_research/10-28-panel.jpg" height="200">
