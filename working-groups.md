@@ -89,7 +89,8 @@ Ongoing and potential future initiatives:
 
 * much more to come!
 
-Meeting time: Every Tuesday at 4:30 pm ET in [EDSH (Smith Hall)](https://goo.gl/maps/pggXmJtk3fMTxwP9A) Room 200 (2nd floor) or on [zoom](https://cmu.zoom.us/my/ericaw).
+Meeting time: Every Tuesday at 4:30 pm ET in [NSH (Newell-Simon Hall)](https://goo.gl/maps/nmaB6AiAtgi6akkX6) [Room 4201](/assets/images/ugrad_research/other/nsh_map.png)
+ (2nd floor) or on [zoom](https://cmu.zoom.us/j/93771660453?pwd=b0lTbmlvU2gzL0R6Rld2UTJjOWtHZz09).
 
 <img src="/assets/images/ugrad_research/erica_weng.jpg" height="200">
 <img src="/assets/images/ugrad_research/Pragna_Mannam.jpg" height="200">
