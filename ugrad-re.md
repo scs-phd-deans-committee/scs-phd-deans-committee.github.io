@@ -91,6 +91,5 @@ This event saw ~70 undergrad, grad, and faculty attendees.
 
 ### 2022-02-01 SCS Research Mixer (first in-person mixer!)
 
-<img src="/assets/images/ugrad_research/events/02-01-mixer0.jpg" height="400">
-<img src="/assets/images/ugrad_research/events/02-01-mixer1.jpg" height="400">
-<img src="/assets/images/ugrad_research/events/02-01-mixer2.jpg" height="400">
+<img src="/assets/images/ugrad_research/events/02-01-mixer0.jpg" height="400"><img src="/assets/images/ugrad_research/events/02-01-mixer1.jpg" height="400">
+<img src="/assets/images/ugrad_research/events/02-01-mixer2.jpg" height="400"><img src="/assets/images/ugrad_research/events/02-01-mixer3.jpg" height="400">
