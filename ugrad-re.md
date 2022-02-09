@@ -72,26 +72,28 @@ Gautam Gare (Research Mixers, Research Panels)
 
 Simin Liu
 
-<img src="/assets/images/social_connectedness/simin_liu.jpg" height="200">
+<img src="/assets/images/social_connectedness/simin_liu.jpg" height="300">
 
 Leonid Keselman
 
-<img src="/assets/images/ugrad_research/leonid_keselman.jpg" height="200">
+<img src="/assets/images/ugrad_research/leonid_keselman.jpg" height="300">
 
 ## Past Events!
 ### 2021-03-28, 2021-05-06, 2021-09-09 SCS Research Mixers
 
-<img src="/assets/images/ugrad_research/events/mixer2.png" height="400">
-<img src="/assets/images/ugrad_research/events/mixer3-title.png" height="400">
-<img src="/assets/images/ugrad_research/events/mixer3.png" height="400">
+<img src="/assets/images/ugrad_research/events/mixer2.png" height="300">
+<img src="/assets/images/ugrad_research/events/mixer3-title.png" height="300">
+<img src="/assets/images/ugrad_research/events/mixer3.png" height="300">
 Each research mixer
 
 ### 2021-10-28 SCS Research Panel
 
-<img src="/assets/images/ugrad_research/events/10-28-panel.jpg" height="400">
+<img src="/assets/images/ugrad_research/events/10-28-panel.jpg" height="300">
 This event saw ~70 undergrad, grad, and faculty attendees.
 
 ### 2022-02-01 SCS Research Mixer (first in-person mixer!)
 
-<img src="/assets/images/ugrad_research/events/02-01-mixer0.jpg" height="400"><img src="/assets/images/ugrad_research/events/02-01-mixer1.jpg" height="400">
-<img src="/assets/images/ugrad_research/events/02-01-mixer2.jpg" height="400"><img src="/assets/images/ugrad_research/events/02-01-mixer3.jpg" height="400">
+<img src="/assets/images/ugrad_research/events/02-01-mixer0.jpg" height="300">
+<img src="/assets/images/ugrad_research/events/02-01-mixer1.jpg" height="300">
+<img src="/assets/images/ugrad_research/events/02-01-mixer2.jpg" height="300">
+<img src="/assets/images/ugrad_research/events/02-01-mixer3.jpg" height="300">
