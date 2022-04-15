@@ -11,7 +11,7 @@ The URE WG has an "initiative-centered" structure that will be actionable-center
 Individual WG members will lead initiatives they feel passionate about, the other members of the WG will support them!
 Each meeting we will update each other on our progress, draft in more help, and discuss new initiatives that would benefit the CMU SCS research community.
 
-**_Meeting time_: As of Feb 2022, we meet every Tuesday at 4:30 pm ET in NSH 4201 ([see map](/assets/images/ugrad_research/nsh_map.png)) or on [zoom](https://cmu.zoom.us/my/ericaw). If you are interested in improving the research experience for CMU ugrads, please join a meeting to find out how you can contribute, or email dpac-ugrad-re@andrew.cmu.edu! :)**
+**_Meeting time_: As of Apr. 2022, we meet every Thursday (with a few exceptions) at 5pm ET in NSH 4201 ([see map](/assets/images/ugrad_research/nsh_map.png)) or on [zoom](https://cmu.zoom.us/my/ericaw). If you are interested in improving the research experience for CMU ugrads, please join a meeting to find out how you can contribute, or email dpac-ugrad-re@andrew.cmu.edu! :)**
 
 
 ## Ongoing Initiatives 
@@ -72,11 +72,11 @@ Gautam Gare (Research Mixers, Research Panels)
 
 Simin Liu
 
-<img src="/assets/images/social_connectedness/simin_liu.jpg" height="300">
+<img src="/assets/images/social_connectedness/simin_liu.jpg" height="200">
 
 Leonid Keselman
 
-<img src="/assets/images/ugrad_research/leonid_keselman.jpg" height="300">
+<img src="/assets/images/ugrad_research/leonid_keselman.jpg" height="200">
 
 ## Past Events!
 ### 2021-03-28, 2021-05-06, 2021-09-09 SCS Research Mixers
