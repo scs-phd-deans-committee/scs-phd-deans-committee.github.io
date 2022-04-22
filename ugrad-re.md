@@ -105,7 +105,7 @@ This event saw ~70 undergrad, grad, and faculty attendees.
 <img src="/assets/images/ugrad_research/events/02-01-mixer3.jpg" height="300">
 
 ### 2022-04-21 SCS Research Panel (first in-person panel!)
-<img src="/assets/images/ugrad_research/events/04-21-panel0.jpg" height="300">
-<img src="/assets/images/ugrad_research/events/04-21-panel1.jpg" height="300">
-<img src="/assets/images/ugrad_research/events/04-21-panel2.jpg" height="300">
-<img src="/assets/images/ugrad_research/events/04-21-panel3.jpg" height="300">
+<img src="/assets/images/ugrad_research/events/04-21-panel0.jpeg" height="300">
+<img src="/assets/images/ugrad_research/events/04-21-panel1.jpeg" height="300">
+<img src="/assets/images/ugrad_research/events/04-21-panel2.jpeg" height="300">
+<img src="/assets/images/ugrad_research/events/04-21-panel3.jpeg" height="300">
