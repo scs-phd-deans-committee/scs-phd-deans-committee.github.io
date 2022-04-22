@@ -11,7 +11,7 @@ The URE WG has an "initiative-centered" structure that will be actionable-center
 Individual WG members will lead initiatives they feel passionate about, the other members of the WG will support them!
 Each meeting we will update each other on our progress, draft in more help, and discuss new initiatives that would benefit the CMU SCS research community.
 
-**_Meeting time_: As of Apr. 2022, we meet every Thursday (with a few exceptions) at 5pm ET in NSH 4201 ([see map](/assets/images/ugrad_research/nsh_map.png)) or on [zoom](https://cmu.zoom.us/my/ericaw). If you are interested in improving the research experience for CMU ugrads, please join a meeting to find out how you can contribute, or email dpac-ugrad-re@andrew.cmu.edu! :)**
+**_Meeting time_: As of Apr. 2022, we meet every Thursday (with a few exceptions) at 5pm ET in NSH 4201 ([see map](/assets/images/ugrad_research/nsh_map.png)) or on [zoom](https://cmu.zoom.us/my/ericaw). If you are interested in improving the research experience for CMU ugrads, please join a meeting to find out how you can contribute, or email dpac-ugrad-re [at] andrew.cmu.edu! :)**
 
 
 ## Ongoing Initiatives 
@@ -25,6 +25,12 @@ Each meeting we will update each other on our progress, draft in more help, and 
 * [Lab-hopping rotation program](https://docs.google.com/forms/d/e/1FAIpQLSencK356aGjfyy91lDc4nqR2YDHzJJbujm3tVPOfmvLwa93Uw/viewform) to give undergraduates a taste of what research life is like by sitting in on lab meetings
 
 See bottom of page for pictures and details from our recent events!
+
+
+## Future Events
+
+Each semester we host at least 1 research mixer and 1 research panel. We will try to keep this site updated with upcoming events. Make sure you are also subscribed to scs-lists [at] lists.andrew.cmu.edu or scs-ms-students [at] cs.cmu.edu to receive all event updates!
+
 
 ## Potential Future Initiatives
 
@@ -97,3 +103,9 @@ This event saw ~70 undergrad, grad, and faculty attendees.
 <img src="/assets/images/ugrad_research/events/02-01-mixer1.jpg" height="300">
 <img src="/assets/images/ugrad_research/events/02-01-mixer2.jpg" height="300">
 <img src="/assets/images/ugrad_research/events/02-01-mixer3.jpg" height="300">
+
+### 2022-04-21 SCS Research Panel (first in-person panel!)
+<img src="/assets/images/ugrad_research/events/04-21-panel0.jpg" height="300">
+<img src="/assets/images/ugrad_research/events/04-21-panel1.jpg" height="300">
+<img src="/assets/images/ugrad_research/events/04-21-panel2.jpg" height="300">
+<img src="/assets/images/ugrad_research/events/04-21-panel3.jpg" height="300">
