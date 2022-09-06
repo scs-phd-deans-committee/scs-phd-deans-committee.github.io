@@ -8,4 +8,5 @@ We published a report on the results and impact of the workshop in the [CMU 2022
 <embed src="/assets/images/ugrad_research/events/22-06-02-workshop-poster.pdf" type="application/pdf">
 
 Pictures from the workshop:
+
 <img src="/assets/images/ugrad_research/events/22-06-02-workshop0.png" height="300">
