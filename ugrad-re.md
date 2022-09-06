@@ -109,3 +109,6 @@ This event saw ~70 undergrad, grad, and faculty attendees.
 <img src="/assets/images/ugrad_research/events/04-21-panel1.jpeg" height="300">
 <img src="/assets/images/ugrad_research/events/04-21-panel2.jpeg" height="300">
 <img src="/assets/images/ugrad_research/events/04-21-panel3.jpeg" height="300">
+
+### 2022-06-02 Graduate Mentorship Workshop
+<img src="/assets/images/ugrad_research/events/22-06-02-workshop0.png" height="300">
