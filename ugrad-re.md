@@ -7,11 +7,11 @@ Our goal is to increase SCS undergraduate research participation, improve the un
 
 The URE WG has an "initiative-centered" structure that will be actionable-centered and conducive to getting things done. An initiative could be:
 * An organized event, such as the SCS Research Mixers
-* Or a goal, such as working with admin to acquire funding for summer research for underrepresented minorities
+* A goal, such as working with admin to acquire funding for summer research for underrepresented minorities
 Individual WG members will lead initiatives they feel passionate about, the other members of the WG will support them!
 Each meeting we will update each other on our progress, draft in more help, and discuss new initiatives that would benefit the CMU SCS research community.
 
-**_Meeting time_: As of Apr. 2022, we meet every Thursday (with a few exceptions) at 5pm ET in NSH 4201 ([see map](/assets/images/ugrad_research/nsh_map.png)) or on [zoom](https://cmu.zoom.us/my/ericaw). If you are interested in improving the research experience for CMU ugrads, please join a meeting to find out how you can contribute, or email dpac-ugrad-re [at] andrew.cmu.edu! :)**
+**_Meeting time_: As of Oct. 2022, we meet every other Wednesday at 4:30pm ET in location tbd ([see map](/assets/images/ugrad_research/nsh_map.png)) or on [zoom](https://cmu.zoom.us/my/ericaw). If you are interested in improving the research experience for CMU ugrads, please join a meeting or email dpac-ugrad-re [at] andrew.cmu.edu to find out how you can contribute! :)**
 
 
 ## Ongoing Initiatives 
