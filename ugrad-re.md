@@ -42,11 +42,19 @@ Each semester we host at least 1 research mixer and 1 research panel. We will tr
 
 
 ## Current Members!
-Erica Weng (Research Mixers, Research Panels)
+Joon Jang (Research Mixers / Panels)
+
+<img src="/assets/images/ugrad_research/joon_jang.jpg" height="200">
+
+Katelyn Morrison (Research Mixers / Panels)
+
+<img src="/assets/images/ugrad_research/katelyn_morrison.jpg" height="200">
+
+Erica Weng (Research Mixers / Panels)
 
 <img src="/assets/images/ugrad_research/erica_weng.jpg" height="200">
 
-Pragna Mannam (Lab Rotation Program)
+Pragna Mannam (Research Mixers / Panels, Lab Rotation Program)
 
 <img src="/assets/images/ugrad_research/Pragna_Mannam.jpg" height="200">
 
@@ -54,23 +62,15 @@ Gokul Swamy (Grad Student Mentorship Workshop)
 
 <img src="/assets/images/ugrad_research/gokul_swamy.jpg" height="200">
 
-Shahul Alam (Research Mixers, Research Panels)
+Shahul Alam (Research Mixers / Panels)
 
 <img src="/assets/images/ugrad_research/shahul_alam.jpg" height="200">
 
-Rishi Veerapaneni (Research On-boarding Resources, Feedback collection)
-
-<img src="/assets/images/ugrad_research/rishi_veerapaneni.jpg" height="200">
-
-Jane Hsieh (Research Mixers, Research Panels)
+Jane Hsieh (Research Mixers / Panels)
 
 <img src="/assets/images/ugrad_research/jane_hsieh.jpg" height="200">
 
-Paul Liang (Research Mixers, Research Panels)
-
-<img src="/assets/images/ugrad_research/paul_liang.jpg" height="200">
-
-Gautam Gare (Research Mixers, Research Panels)
+Gautam Gare (Research Mixers / Panels)
 
 <img src="/assets/images/ugrad_research/gautam_gare.jpg" height="200">
 
@@ -83,6 +83,14 @@ Simin Liu
 Leonid Keselman
 
 <img src="/assets/images/ugrad_research/leonid_keselman.jpg" height="200">
+
+Rishi Veerapaneni
+
+<img src="/assets/images/ugrad_research/rishi_veerapaneni.jpg" height="200">
+
+Paul Liang
+
+<img src="/assets/images/ugrad_research/paul_liang.jpg" height="200">
 
 ## Past Events!
 ### 2021-03-28, 2021-05-06, 2021-09-09 SCS Research Mixers
@@ -105,10 +113,16 @@ This event saw ~70 undergrad, grad, and faculty attendees.
 <img src="/assets/images/ugrad_research/events/02-01-mixer3.jpg" height="300">
 
 ### 2022-04-21 SCS Research Panel (first in-person panel!)
+
 <img src="/assets/images/ugrad_research/events/04-21-panel0.jpeg" height="300">
 <img src="/assets/images/ugrad_research/events/04-21-panel1.jpeg" height="300">
 <img src="/assets/images/ugrad_research/events/04-21-panel2.jpeg" height="300">
 <img src="/assets/images/ugrad_research/events/04-21-panel3.jpeg" height="300">
 
 ### 2022-06-02 Graduate Mentorship Workshop
+
 <img src="/assets/images/ugrad_research/events/22-06-02-workshop0.png" height="300">
+
+### 2022-09-22 SCS Virtual Research Mixer
+
+<img src="/assets/images/ugrad_research/events/22-09-22-mixer0.png" height="300">
