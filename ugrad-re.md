@@ -5,40 +5,28 @@ Our goal is to increase SCS undergraduate research participation, improve the un
 
 ## Working Group Details
 
-The URE WG has an "initiative-centered" structure that will be actionable-centered and conducive to getting things done. An initiative could be:
+The URE WG has an "initiative-centered" structure that will be actionable-centered and conducive to getting things done. An initiative can be:
 * An organized event, such as the SCS Research Mixers
 * A goal, such as working with admin to acquire funding for summer research for underrepresented minorities
 Individual WG members will lead initiatives they feel passionate about, the other members of the WG will support them!
-Each meeting we will update each other on our progress, draft in more help, and discuss new initiatives that would benefit the CMU SCS research community.
+During WG meetings, we brainstorm and plan initiatives.
 
-**_Meeting time_: As of Oct. 2022, we meet every other Wednesday at 4:30pm ET in location tbd ([see map](/assets/images/ugrad_research/nsh_map.png)) or on [zoom](https://cmu.zoom.us/my/ericaw). If you are interested in improving the research experience for CMU ugrads, please join a meeting or email dpac-ugrad-re [at] andrew.cmu.edu to find out how you can contribute! :)**
+**_Meeting time_: As of Fall 2022, we meet every other Wednesday at 5-6pm ET in NSH 4513 ([see map](/assets/images/ugrad_research/nsh_map.png)). This will likely change in future semesters, based on working group member availability. If you are interested in improving the research experience for CMU ugrads, please join a meeting or email dpac-ugrad-re [at] andrew.cmu.edu to find out how you can contribute! :)**
 
 
 ## Ongoing Initiatives 
 
 * [Research Mixers](https://docs.google.com/presentation/d/1ZYcf9KqcQ3-vvu2AGQtvoa65XSDZsu58nRSkUnPV0M8/edit#slide=id.g10112176f67_0_38) to connect undergrads and masters students with research projects and grad / faculty mentors
 
+* [Ugrad-ugrad "Speed-dating"] to connect undergrads research veterans (e.g. senior thesis students) with undergrads new to research
+
 * [Research Panels](https://docs.google.com/presentation/d/1ZYcf9KqcQ3-vvu2AGQtvoa65XSDZsu58nRSkUnPV0M8/edit#slide=id.g10112176f67_0_47) to answer undergrads' questions about research and academic life, and to encourage them to try it out
 
 * Graduate Student Mentorship Workshop to equip grad student mentors, particularly [Robotics Institute Summer Scholars (RISS)](https://riss.ri.cmu.edu/) mentors, with the skills necessary to advise younger students on research projects
 
-* [Lab-hopping rotation program](https://docs.google.com/forms/d/e/1FAIpQLSencK356aGjfyy91lDc4nqR2YDHzJJbujm3tVPOfmvLwa93Uw/viewform) to give undergraduates a taste of what research life is like by sitting in on lab meetings
+Each semester we host at least 1 research mixer oriented towards matching students looking for a research project with a project, and 1 event oriented towards informing students new to research about research life. We will post upcoming events to the mailing listis scs-ugrads [at] lists.andrew.cmu.edu, scs-ms-students [at] cs.cmu.edu, and scs-phd-students [at] cs.cmu.edu.
 
-See bottom of page for pictures and details from our recent events!
-
-
-## Future Events
-
-Each semester we host at least 1 research mixer and 1 research panel. We will try to keep this site updated with upcoming events. Make sure you are also subscribed to scs-lists [at] lists.andrew.cmu.edu or scs-ms-students [at] cs.cmu.edu to receive all event updates!
-
-
-## Potential Future Initiatives
-
-* [Shadow-a-researcher program](https://docs.google.com/document/d/1POqcH6JRrxkTFlMTOk_CULCcwUvIDv7bw0yvJq2oIKE/edit)
-
-* Weekend-long program to encourage URI to get involved with research in the style of [OurCS](https://www.cmu.edu/cs/ourcs/)
-
-* Resources such as a Slack workspace to build community among the SCS undergrad research community, "onboarding" documents for prospective undergrad researchers and grad student mentors
+See below for pictures from our recent events!
 
 
 ## Current Members!
