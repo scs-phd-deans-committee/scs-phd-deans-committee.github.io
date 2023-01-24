@@ -30,55 +30,63 @@ See below for pictures from our recent events!
 
 
 ## Current Members!
-Joon Jang (Research Mixers / Panels)
+Zhiqiu Lin
 
-<img src="/assets/images/ugrad_research/joon_jang.jpg" height="200">
+<img src="/assets/images/ugrad_research/zhiqiu_lin.jpg" height="200">
 
-Katelyn Morrison (Research Mixers / Panels)
+Yi Fei Cheng
+
+<img src="/assets/images/ugrad_research/yi_fei_cheng.jpg" height="200">
+
+Katelyn Morrison (Research Mixers)
 
 <img src="/assets/images/ugrad_research/katelyn_morrison.jpg" height="200">
 
-Erica Weng (Research Mixers / Panels)
+Joon Jang (Research Mixers)
 
-<img src="/assets/images/ugrad_research/erica_weng.jpg" height="200">
+<img src="/assets/images/ugrad_research/joon_jang.jpg" height="200">
 
-Pragna Mannam (Research Mixers / Panels, Lab Rotation Program)
+Gautam Gare (Research Mixers)
+
+<img src="/assets/images/ugrad_research/gautam_gare.jpg" height="200">
+
+Pragna Mannam (Research Mixers, Lab Rotation Program)
 
 <img src="/assets/images/ugrad_research/Pragna_Mannam.jpg" height="200">
+
+Jane Hsieh (Research Mixers)
+
+<img src="/assets/images/ugrad_research/jane_hsieh.jpg" height="200">
 
 Gokul Swamy (Grad Student Mentorship Workshop)
 
 <img src="/assets/images/ugrad_research/gokul_swamy.jpg" height="200">
 
-Shahul Alam (Research Mixers / Panels)
+Shahul Alam (Research Mixers)
 
 <img src="/assets/images/ugrad_research/shahul_alam.jpg" height="200">
 
-Jane Hsieh (Research Mixers / Panels)
+Erica Weng (Research Mixers)
 
-<img src="/assets/images/ugrad_research/jane_hsieh.jpg" height="200">
-
-Gautam Gare (Research Mixers / Panels)
-
-<img src="/assets/images/ugrad_research/gautam_gare.jpg" height="200">
+<img src="/assets/images/ugrad_research/erica_weng.jpg" height="200">
 
 ## Past Members!
 
-Simin Liu
+Paul Liang
 
-<img src="/assets/images/social_connectedness/simin_liu.jpg" height="200">
-
-Leonid Keselman
-
-<img src="/assets/images/ugrad_research/leonid_keselman.jpg" height="200">
+<img src="/assets/images/ugrad_research/paul_liang.jpg" height="200">
 
 Rishi Veerapaneni
 
 <img src="/assets/images/ugrad_research/rishi_veerapaneni.jpg" height="200">
 
-Paul Liang
+Leonid Keselman
 
-<img src="/assets/images/ugrad_research/paul_liang.jpg" height="200">
+<img src="/assets/images/ugrad_research/leonid_keselman.jpg" height="200">
+
+Simin Liu
+
+<img src="/assets/images/social_connectedness/simin_liu.jpg" height="200">
 
 ## Past Events!
 ### 2021-03-28, 2021-05-06, 2021-09-09 SCS Research Mixers
