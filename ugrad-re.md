@@ -30,13 +30,13 @@ See below for pictures from our recent events!
 
 
 ## Current Members!
-Zhiqiu Lin
-
-<img src="/assets/images/ugrad_research/zhiqiu_lin.jpg" height="200">
-
 Yi Fei Cheng
 
 <img src="/assets/images/ugrad_research/yi_fei_cheng.jpg" height="200">
+
+Zhiqiu Lin
+
+<img src="/assets/images/ugrad_research/zhiqiu_lin.jpg" height="200">
 
 Katelyn Morrison (Research Mixers)
 
