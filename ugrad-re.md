@@ -100,9 +100,9 @@ We're back to the in-person mixer, with free pizza, stimulating round-table rese
 
 ### 2022-01-24 SCS Research "Speed-Dating"
 
-<img src="/assets/images/ugrad_research/events/23-01-24-sd-0.png" height="400">
-<img src="/assets/images/ugrad_research/events/23-01-24-sd-1.png" height="400">
-<img src="/assets/images/ugrad_research/events/23-01-24-sd-2.png" height="400">
+<img src="/assets/images/ugrad_research/events/23-01-24-sd-0.png" height="300">
+<img src="/assets/images/ugrad_research/events/23-01-24-sd-1.png" height="300">
+<img src="/assets/images/ugrad_research/events/23-01-24-sd-2.png" height="300">
 
 During our working group discussions in Fall 2022, we decided upon a new event format: "speed-dating." This event saw ugrad research "veterans" who have previously done research projects before, either independently - through research classes, or through the SCS honors thesis program - potentially convince their fellow ugrads to get involved with SCS research!
 
