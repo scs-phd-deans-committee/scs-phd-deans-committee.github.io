@@ -38,35 +38,35 @@ Zhiqiu Lin
 
 <img src="/assets/images/ugrad_research/zhiqiu_lin.jpg" height="200">
 
-Katelyn Morrison (Research Mixers)
+Katelyn Morrison
 
 <img src="/assets/images/ugrad_research/katelyn_morrison.jpg" height="200">
 
-Joon Jang (Research Mixers)
+Joon Jang
 
 <img src="/assets/images/ugrad_research/joon_jang.jpg" height="200">
 
-Gautam Gare (Research Mixers)
+Gautam Gare
 
 <img src="/assets/images/ugrad_research/gautam_gare.jpg" height="200">
 
-Pragna Mannam (Research Mixers, Lab Rotation Program)
+Pragna Mannam
 
 <img src="/assets/images/ugrad_research/Pragna_Mannam.jpg" height="200">
 
-Jane Hsieh (Research Mixers)
+Jane Hsieh
 
 <img src="/assets/images/ugrad_research/jane_hsieh.jpg" height="200">
 
-Gokul Swamy (Grad Student Mentorship Workshop)
+Gokul Swamy
 
 <img src="/assets/images/ugrad_research/gokul_swamy.jpg" height="200">
 
-Shahul Alam (Research Mixers)
+Shahul Alam
 
 <img src="/assets/images/ugrad_research/shahul_alam.jpg" height="200">
 
-Erica Weng (Research Mixers)
+Erica Weng
 
 <img src="/assets/images/ugrad_research/erica_weng.jpg" height="200">
 
@@ -89,14 +89,14 @@ Simin Liu
 <img src="/assets/images/social_connectedness/simin_liu.jpg" height="200">
 
 ## Past Events, in reverse-chronological order!
-<!-- 
 ### 2022-02-02 SCS Research Mixer, Spring 2023
 
-<img src="/assets/images/ugrad_research/events/23-02-02-mixer0.png" height="400">
-<img src="/assets/images/ugrad_research/events/23-02-02-mixer1.png" height="400">
-<img src="/assets/images/ugrad_research/events/23-02-02-mixer2.png" height="400">
+<img src="/assets/images/ugrad_research/events/23-02-02-mixer0.jpeg" height="400">
+<img src="/assets/images/ugrad_research/events/23-02-02-mixer1.jpeg" height="400">
+<img src="/assets/images/ugrad_research/events/23-02-02-mixer2.jpeg" height="400">
+<img src="/assets/images/ugrad_research/events/23-02-02-mixer3.jpeg" height="400">
 
-We're back to the in-person mixer, with free pizza, stimulating round-table research discussions, and many potential research collaborations betweer SCS ugrads / masters students, and grads / faculty! -->
+We're back to the in-person mixer - with free pizza, round-table research discussions, multi-ped robot demonstrations, and many potential research collaborations betweer SCS ugrads / masters students, and grads / faculty!
 
 ### 2022-01-24 SCS Research "Speed-Dating"
 
