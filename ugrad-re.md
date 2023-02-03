@@ -89,12 +89,18 @@ Simin Liu
 <img src="/assets/images/social_connectedness/simin_liu.jpg" height="200">
 
 ## Past Events, in reverse-chronological order!
-### 2022-02-02 SCS Research Mixer, Spring 2023
 
-<img src="/assets/images/ugrad_research/events/23-02-02-mixer0.jpeg" height="400">
-<img src="/assets/images/ugrad_research/events/23-02-02-mixer1.jpeg" height="400">
-<img src="/assets/images/ugrad_research/events/23-02-02-mixer2.jpeg" height="400">
-<img src="/assets/images/ugrad_research/events/23-02-02-mixer3.jpeg" height="400">
+<!-- 
+### 2022-0-0 SCS Research Mixer, Summer 2023 Projects
+<img src="/assets/images/ugrad_research/events/23-02-02-mixer0.jpeg" height="300">
+-->
+
+### 2022-02-02 SCS Research Mixer, Spring 2023 Projects
+
+<img src="/assets/images/ugrad_research/events/23-02-02-mixer0.jpeg" height="300">
+<img src="/assets/images/ugrad_research/events/23-02-02-mixer1.jpeg" height="300">
+<img src="/assets/images/ugrad_research/events/23-02-02-mixer2.jpeg" height="300">
+<img src="/assets/images/ugrad_research/events/23-02-02-mixer3.jpeg" height="300">
 
 We're back to the in-person mixer - with free pizza, round-table research discussions, multi-ped robot demonstrations, and many potential research collaborations betweer SCS ugrads / masters students, and grads / faculty!
 
